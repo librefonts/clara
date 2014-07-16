@@ -1,0 +1,4214 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=21 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="4"/>
+            <FeatureIndex index="5" value="5"/>
+            <FeatureIndex index="6" value="6"/>
+            <FeatureIndex index="7" value="7"/>
+            <FeatureIndex index="8" value="8"/>
+            <FeatureIndex index="9" value="9"/>
+            <FeatureIndex index="10" value="10"/>
+            <FeatureIndex index="11" value="11"/>
+            <FeatureIndex index="12" value="12"/>
+            <FeatureIndex index="13" value="13"/>
+            <FeatureIndex index="14" value="14"/>
+            <FeatureIndex index="15" value="15"/>
+            <FeatureIndex index="16" value="16"/>
+            <FeatureIndex index="17" value="17"/>
+            <FeatureIndex index="18" value="18"/>
+            <FeatureIndex index="19" value="19"/>
+            <FeatureIndex index="20" value="20"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=21 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="SS01"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="SS02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="c2sc"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="calt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="dnom"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="fina"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="16"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="4"/>
+          <LookupListIndex index="1" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="lnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="11">
+        <FeatureTag value="numr"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="12">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="13">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="9"/>
+          <LookupListIndex index="1" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="14">
+        <FeatureTag value="ornm"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="15">
+        <FeatureTag value="salt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="16">
+        <FeatureTag value="sinf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="17">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="18">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="19">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="20">
+        <FeatureTag value="titl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="22"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=26 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="aacute" out="aacute.alt"/>
+          <Substitution in="acircumflex" out="acircumflex.alt"/>
+          <Substitution in="adieresis" out="adieresis.alt"/>
+          <Substitution in="agrave" out="agrave.alt"/>
+          <Substitution in="ampersand" out="ampersand.alt"/>
+          <Substitution in="aring" out="aring.alt"/>
+          <Substitution in="asciicircum" out="camiseta6.ss03"/>
+          <Substitution in="at" out="camiseta2.ss03"/>
+          <Substitution in="atilde" out="atilde.alt"/>
+          <Substitution in="bracketleft" out="inicio"/>
+          <Substitution in="bracketright" out="final"/>
+          <Substitution in="dollar" out="camiseta4.ss03"/>
+          <Substitution in="eacute" out="eacute.alt"/>
+          <Substitution in="ecircumflex" out="ecircumflex.alt"/>
+          <Substitution in="edieresis" out="edieresis.alt"/>
+          <Substitution in="egrave" out="egrave.alt"/>
+          <Substitution in="exclam" out="camiseta1.ss03"/>
+          <Substitution in="f_k" out="f_k.alt"/>
+          <Substitution in="numbersign" out="camiseta3.ss03"/>
+          <Substitution in="oacute" out="oacute.alt"/>
+          <Substitution in="ocircumflex" out="ocircumflex.alt"/>
+          <Substitution in="odieresis" out="odieresis.alt"/>
+          <Substitution in="ograve" out="ograve.alt"/>
+          <Substitution in="otilde" out="otilde.alt"/>
+          <Substitution in="percent" out="camiseta5.ss03"/>
+          <Substitution in="space" out="space.smcp"/>
+          <Substitution in="uacute" out="uacute.alt"/>
+          <Substitution in="ucircumflex" out="ucircumflex.alt"/>
+          <Substitution in="udieresis" out="udieresis.alt"/>
+          <Substitution in="ugrave" out="ugrave.alt"/>
+          <Substitution in="x" out="X.smcp"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="A">
+            <Alternate glyph="A.smcp"/>
+            <Alternate glyph="A.alt"/>
+            <Alternate glyph="A.alt2"/>
+            <Alternate glyph="A.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="B">
+            <Alternate glyph="B.smcp"/>
+            <Alternate glyph="B.alt"/>
+            <Alternate glyph="B.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="C">
+            <Alternate glyph="C.smcp"/>
+            <Alternate glyph="C.alt"/>
+            <Alternate glyph="C.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="D">
+            <Alternate glyph="D.smcp"/>
+            <Alternate glyph="D.alt"/>
+            <Alternate glyph="D.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="E">
+            <Alternate glyph="E.smcp"/>
+            <Alternate glyph="E.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="F">
+            <Alternate glyph="F.smcp"/>
+            <Alternate glyph="F.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="G">
+            <Alternate glyph="G.smcp"/>
+            <Alternate glyph="G.alt"/>
+            <Alternate glyph="G.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="H">
+            <Alternate glyph="H.smcp"/>
+            <Alternate glyph="H.alt"/>
+            <Alternate glyph="H.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="I">
+            <Alternate glyph="I.smcp"/>
+            <Alternate glyph="I.alt"/>
+            <Alternate glyph="I.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="J">
+            <Alternate glyph="J.smcp"/>
+            <Alternate glyph="J.alt"/>
+            <Alternate glyph="J.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="K">
+            <Alternate glyph="K.smcp"/>
+            <Alternate glyph="K.alt"/>
+            <Alternate glyph="K.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="L">
+            <Alternate glyph="L.smcp"/>
+            <Alternate glyph="L.alt"/>
+            <Alternate glyph="L.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="M">
+            <Alternate glyph="M.smcp"/>
+            <Alternate glyph="M.alt"/>
+            <Alternate glyph="M.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="N">
+            <Alternate glyph="N.smcp"/>
+            <Alternate glyph="N.alt"/>
+            <Alternate glyph="N.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="O">
+            <Alternate glyph="O.smcp"/>
+            <Alternate glyph="O.alt"/>
+            <Alternate glyph="O.alt02"/>
+            <Alternate glyph="O.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="P">
+            <Alternate glyph="P.smcp"/>
+            <Alternate glyph="P.alt"/>
+            <Alternate glyph="P.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="Q">
+            <Alternate glyph="Q.smcp"/>
+            <Alternate glyph="Q.alt"/>
+            <Alternate glyph="Q.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="R">
+            <Alternate glyph="R.smcp"/>
+            <Alternate glyph="R.alt"/>
+            <Alternate glyph="R.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="S">
+            <Alternate glyph="S.smcp"/>
+            <Alternate glyph="S.alt"/>
+            <Alternate glyph="S.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="T">
+            <Alternate glyph="T.smcp"/>
+            <Alternate glyph="T.alt"/>
+            <Alternate glyph="T.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="U">
+            <Alternate glyph="U.smcp"/>
+            <Alternate glyph="U.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="V">
+            <Alternate glyph="V.smcp"/>
+            <Alternate glyph="V.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="W">
+            <Alternate glyph="W.smcp"/>
+            <Alternate glyph="W.alt"/>
+            <Alternate glyph="W.alt.001"/>
+            <Alternate glyph="W.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="X">
+            <Alternate glyph="X.smcp"/>
+            <Alternate glyph="X.alt"/>
+            <Alternate glyph="X.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="Y">
+            <Alternate glyph="Y.smcp"/>
+            <Alternate glyph="Y.alt"/>
+            <Alternate glyph="Y.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="Z">
+            <Alternate glyph="Z.smcp"/>
+            <Alternate glyph="Z.smcp.titl"/>
+          </AlternateSet>
+          <AlternateSet glyph="a">
+            <Alternate glyph="A.smcp"/>
+            <Alternate glyph="a.alt"/>
+            <Alternate glyph="icon1"/>
+          </AlternateSet>
+          <AlternateSet glyph="b">
+            <Alternate glyph="B.smcp"/>
+            <Alternate glyph="icon2"/>
+          </AlternateSet>
+          <AlternateSet glyph="c">
+            <Alternate glyph="C.smcp"/>
+            <Alternate glyph="icon3"/>
+          </AlternateSet>
+          <AlternateSet glyph="d">
+            <Alternate glyph="D.smcp"/>
+            <Alternate glyph="d.alt"/>
+            <Alternate glyph="icon4"/>
+          </AlternateSet>
+          <AlternateSet glyph="e">
+            <Alternate glyph="E.smcp"/>
+            <Alternate glyph="e.alt"/>
+            <Alternate glyph="e.alt.001"/>
+            <Alternate glyph="icon5"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight">
+            <Alternate glyph="eightsuperior"/>
+            <Alternate glyph="uni2088"/>
+            <Alternate glyph="eight.tnum"/>
+          </AlternateSet>
+          <AlternateSet glyph="eight.tnum">
+            <Alternate glyph="eight"/>
+          </AlternateSet>
+          <AlternateSet glyph="f">
+            <Alternate glyph="F.smcp"/>
+            <Alternate glyph="f.alt"/>
+            <Alternate glyph="diego"/>
+          </AlternateSet>
+          <AlternateSet glyph="five">
+            <Alternate glyph="fivesuperior"/>
+            <Alternate glyph="uni2085"/>
+            <Alternate glyph="five.tnum"/>
+            <Alternate glyph="camiseta5.ss02"/>
+          </AlternateSet>
+          <AlternateSet glyph="five.tnum">
+            <Alternate glyph="five"/>
+          </AlternateSet>
+          <AlternateSet glyph="four">
+            <Alternate glyph="foursuperior"/>
+            <Alternate glyph="uni2084"/>
+            <Alternate glyph="four.tnum"/>
+            <Alternate glyph="camiseta4.ss02"/>
+          </AlternateSet>
+          <AlternateSet glyph="four.tnum">
+            <Alternate glyph="four"/>
+          </AlternateSet>
+          <AlternateSet glyph="g">
+            <Alternate glyph="G.smcp"/>
+            <Alternate glyph="g.alt"/>
+            <Alternate glyph="fleuron10"/>
+          </AlternateSet>
+          <AlternateSet glyph="h">
+            <Alternate glyph="H.smcp"/>
+            <Alternate glyph="h.alt"/>
+            <Alternate glyph="apple1.alt"/>
+          </AlternateSet>
+          <AlternateSet glyph="i">
+            <Alternate glyph="I.smcp"/>
+            <Alternate glyph="i.alt"/>
+            <Alternate glyph="apple2.alt"/>
+          </AlternateSet>
+          <AlternateSet glyph="j">
+            <Alternate glyph="J.smcp"/>
+            <Alternate glyph="flecha1"/>
+          </AlternateSet>
+          <AlternateSet glyph="k">
+            <Alternate glyph="K.smcp"/>
+            <Alternate glyph="k.alt"/>
+            <Alternate glyph="flecha2"/>
+          </AlternateSet>
+          <AlternateSet glyph="l">
+            <Alternate glyph="L.smcp"/>
+            <Alternate glyph="l.alt"/>
+            <Alternate glyph="flecha3"/>
+          </AlternateSet>
+          <AlternateSet glyph="m">
+            <Alternate glyph="M.smcp"/>
+            <Alternate glyph="m.alt"/>
+            <Alternate glyph="flecha4"/>
+          </AlternateSet>
+          <AlternateSet glyph="n">
+            <Alternate glyph="N.smcp"/>
+            <Alternate glyph="n.alt"/>
+            <Alternate glyph="fleuron01"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine">
+            <Alternate glyph="ninesuperior"/>
+            <Alternate glyph="uni2089"/>
+            <Alternate glyph="nine.tnum"/>
+          </AlternateSet>
+          <AlternateSet glyph="nine.tnum">
+            <Alternate glyph="nine"/>
+          </AlternateSet>
+          <AlternateSet glyph="o">
+            <Alternate glyph="O.smcp"/>
+            <Alternate glyph="o.fina"/>
+            <Alternate glyph="o.alt"/>
+            <Alternate glyph="fleuron02"/>
+          </AlternateSet>
+          <AlternateSet glyph="one">
+            <Alternate glyph="onesuperior"/>
+            <Alternate glyph="uni2081"/>
+            <Alternate glyph="one.tnum"/>
+            <Alternate glyph="camiseta1.ss02"/>
+          </AlternateSet>
+          <AlternateSet glyph="one.tnum">
+            <Alternate glyph="one"/>
+          </AlternateSet>
+          <AlternateSet glyph="p">
+            <Alternate glyph="P.smcp"/>
+            <Alternate glyph="fleuron03"/>
+          </AlternateSet>
+          <AlternateSet glyph="q">
+            <Alternate glyph="Q.smcp"/>
+            <Alternate glyph="fleuron04"/>
+          </AlternateSet>
+          <AlternateSet glyph="r">
+            <Alternate glyph="R.smcp"/>
+            <Alternate glyph="r.fina"/>
+            <Alternate glyph="fleuron05"/>
+          </AlternateSet>
+          <AlternateSet glyph="s">
+            <Alternate glyph="S.smcp"/>
+            <Alternate glyph="fleuron06"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven">
+            <Alternate glyph="sevensuperior"/>
+            <Alternate glyph="uni2087"/>
+            <Alternate glyph="seven.tnum"/>
+          </AlternateSet>
+          <AlternateSet glyph="seven.tnum">
+            <Alternate glyph="seven"/>
+          </AlternateSet>
+          <AlternateSet glyph="six">
+            <Alternate glyph="sixsuperior"/>
+            <Alternate glyph="uni2086"/>
+            <Alternate glyph="six.tnum"/>
+            <Alternate glyph="camiseta6.ss02"/>
+          </AlternateSet>
+          <AlternateSet glyph="six.tnum">
+            <Alternate glyph="six"/>
+          </AlternateSet>
+          <AlternateSet glyph="t">
+            <Alternate glyph="T.smcp"/>
+            <Alternate glyph="fleuron08"/>
+          </AlternateSet>
+          <AlternateSet glyph="three">
+            <Alternate glyph="threesuperior"/>
+            <Alternate glyph="uni2083"/>
+            <Alternate glyph="three.tnum"/>
+            <Alternate glyph="camiseta3.ss02"/>
+          </AlternateSet>
+          <AlternateSet glyph="three.tnum">
+            <Alternate glyph="three"/>
+          </AlternateSet>
+          <AlternateSet glyph="two">
+            <Alternate glyph="twosuperior"/>
+            <Alternate glyph="uni2082"/>
+            <Alternate glyph="two.tnum"/>
+            <Alternate glyph="camiseta2.ss02"/>
+          </AlternateSet>
+          <AlternateSet glyph="two.tnum">
+            <Alternate glyph="two"/>
+          </AlternateSet>
+          <AlternateSet glyph="u">
+            <Alternate glyph="U.smcp"/>
+            <Alternate glyph="u.alt"/>
+          </AlternateSet>
+          <AlternateSet glyph="v">
+            <Alternate glyph="V.smcp"/>
+            <Alternate glyph="v.alt"/>
+          </AlternateSet>
+          <AlternateSet glyph="w">
+            <Alternate glyph="W.smcp"/>
+            <Alternate glyph="w.alt"/>
+          </AlternateSet>
+          <AlternateSet glyph="y">
+            <Alternate glyph="Y.smcp"/>
+            <Alternate glyph="y.alt"/>
+          </AlternateSet>
+          <AlternateSet glyph="z">
+            <Alternate glyph="Z.smcp"/>
+            <Alternate glyph="z.alt"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero">
+            <Alternate glyph="zerosuperior"/>
+            <Alternate glyph="uni2080"/>
+            <Alternate glyph="zero.tnum"/>
+            <Alternate glyph="camiseta1.ss01"/>
+          </AlternateSet>
+          <AlternateSet glyph="zero.tnum">
+            <Alternate glyph="zero"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="a" out="A.smcp"/>
+          <Substitution in="b" out="B.smcp"/>
+          <Substitution in="c" out="C.smcp"/>
+          <Substitution in="d" out="D.smcp"/>
+          <Substitution in="e" out="E.smcp"/>
+          <Substitution in="f" out="F.smcp"/>
+          <Substitution in="g" out="G.smcp"/>
+          <Substitution in="h" out="H.smcp"/>
+          <Substitution in="i" out="I.smcp"/>
+          <Substitution in="j" out="J.smcp"/>
+          <Substitution in="k" out="K.smcp"/>
+          <Substitution in="l" out="L.smcp"/>
+          <Substitution in="m" out="M.smcp"/>
+          <Substitution in="n" out="N.smcp"/>
+          <Substitution in="o" out="O.smcp"/>
+          <Substitution in="p" out="P.smcp"/>
+          <Substitution in="q" out="Q.smcp"/>
+          <Substitution in="r" out="R.smcp"/>
+          <Substitution in="s" out="S.smcp"/>
+          <Substitution in="t" out="T.smcp"/>
+          <Substitution in="u" out="U.smcp"/>
+          <Substitution in="v" out="V.smcp"/>
+          <Substitution in="w" out="W.smcp"/>
+          <Substitution in="x" out="X.smcp"/>
+          <Substitution in="y" out="Y.smcp"/>
+          <Substitution in="z" out="Z.smcp"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out="A.smcp"/>
+          <Substitution in="B" out="B.smcp"/>
+          <Substitution in="C" out="C.smcp"/>
+          <Substitution in="D" out="D.smcp"/>
+          <Substitution in="E" out="E.smcp"/>
+          <Substitution in="F" out="F.smcp"/>
+          <Substitution in="G" out="G.smcp"/>
+          <Substitution in="H" out="H.smcp"/>
+          <Substitution in="I" out="I.smcp"/>
+          <Substitution in="J" out="J.smcp"/>
+          <Substitution in="K" out="K.smcp"/>
+          <Substitution in="L" out="L.smcp"/>
+          <Substitution in="M" out="M.smcp"/>
+          <Substitution in="N" out="N.smcp"/>
+          <Substitution in="O" out="O.smcp"/>
+          <Substitution in="P" out="P.smcp"/>
+          <Substitution in="Q" out="Q.smcp"/>
+          <Substitution in="R" out="R.smcp"/>
+          <Substitution in="S" out="S.smcp"/>
+          <Substitution in="T" out="T.smcp"/>
+          <Substitution in="U" out="U.smcp"/>
+          <Substitution in="V" out="V.smcp"/>
+          <Substitution in="W" out="W.smcp"/>
+          <Substitution in="X" out="X.smcp"/>
+          <Substitution in="Y" out="Y.smcp"/>
+          <Substitution in="Z" out="Z.smcp"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="f">
+            <Ligature components="f" glyph="f_f"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="f">
+            <Ligature components="t" glyph="f_t"/>
+            <Ligature components="k" glyph="f_k"/>
+            <Ligature components="j" glyph="f_j"/>
+            <Ligature components="h" glyph="f_h"/>
+            <Ligature components="b" glyph="f_b"/>
+            <Ligature components="l" glyph="fl"/>
+            <Ligature components="i" glyph="fi"/>
+            <Ligature components="f" glyph="f_f"/>
+          </LigatureSet>
+          <LigatureSet glyph="f_f">
+            <Ligature components="i" glyph="f_f_i"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="eight" out="eightsuperior"/>
+          <Substitution in="five" out="fivesuperior"/>
+          <Substitution in="four" out="foursuperior"/>
+          <Substitution in="nine" out="ninesuperior"/>
+          <Substitution in="one" out="onesuperior"/>
+          <Substitution in="seven" out="sevensuperior"/>
+          <Substitution in="six" out="sixsuperior"/>
+          <Substitution in="three" out="threesuperior"/>
+          <Substitution in="two" out="twosuperior"/>
+          <Substitution in="zero" out="zerosuperior"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="uni2088"/>
+          <Substitution in="five" out="uni2085"/>
+          <Substitution in="four" out="uni2084"/>
+          <Substitution in="nine" out="uni2089"/>
+          <Substitution in="one" out="uni2081"/>
+          <Substitution in="seven" out="uni2087"/>
+          <Substitution in="six" out="uni2086"/>
+          <Substitution in="three" out="uni2083"/>
+          <Substitution in="two" out="uni2082"/>
+          <Substitution in="zero" out="uni2080"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="eight" out="eightsuperior"/>
+          <Substitution in="five" out="fivesuperior"/>
+          <Substitution in="four" out="foursuperior"/>
+          <Substitution in="nine" out="ninesuperior"/>
+          <Substitution in="one" out="onesuperior"/>
+          <Substitution in="seven" out="sevensuperior"/>
+          <Substitution in="six" out="sixsuperior"/>
+          <Substitution in="three" out="threesuperior"/>
+          <Substitution in="two" out="twosuperior"/>
+          <Substitution in="zero" out="zerosuperior"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="d">
+            <Ligature components="o" glyph="d_o"/>
+            <Ligature components="a" glyph="d_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="e">
+            <Ligature components="r,o" glyph="e_r_o"/>
+            <Ligature components="r,a" glyph="e_r_a"/>
+            <Ligature components="r" glyph="e_r"/>
+          </LigatureSet>
+          <LigatureSet glyph="m">
+            <Ligature components="o" glyph="m_o"/>
+            <Ligature components="a" glyph="m_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="n">
+            <Ligature components="o" glyph="n_o"/>
+            <Ligature components="d" glyph="n_d"/>
+            <Ligature components="a" glyph="n_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="r">
+            <Ligature components="i,t,a" glyph="r_i_t_a"/>
+            <Ligature components="d" glyph="r_d"/>
+            <Ligature components="a" glyph="r_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="s">
+            <Ligature components="t" glyph="s_t.001"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="o" glyph="t_o"/>
+            <Ligature components="h" glyph="t_h"/>
+            <Ligature components="a" glyph="t_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="v">
+            <Ligature components="o" glyph="v_o"/>
+            <Ligature components="a" glyph="v_a"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="a" out="ordfeminine"/>
+          <Substitution in="o" out="ordmasculine"/>
+          <Substitution in="r" out="ord_r"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="uni2088"/>
+          <Substitution in="five" out="uni2085"/>
+          <Substitution in="four" out="uni2084"/>
+          <Substitution in="nine" out="uni2089"/>
+          <Substitution in="one" out="uni2081"/>
+          <Substitution in="seven" out="uni2087"/>
+          <Substitution in="six" out="uni2086"/>
+          <Substitution in="three" out="uni2083"/>
+          <Substitution in="two" out="uni2082"/>
+          <Substitution in="zero" out="uni2080"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="12">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="uni2088"/>
+          <Substitution in="five" out="uni2085"/>
+          <Substitution in="four" out="uni2084"/>
+          <Substitution in="nine" out="uni2089"/>
+          <Substitution in="one" out="uni2081"/>
+          <Substitution in="seven" out="uni2087"/>
+          <Substitution in="six" out="uni2086"/>
+          <Substitution in="three" out="uni2083"/>
+          <Substitution in="two" out="uni2082"/>
+          <Substitution in="zero" out="uni2080"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="13">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight.tnum" out="eight"/>
+          <Substitution in="five.tnum" out="five"/>
+          <Substitution in="four.tnum" out="four"/>
+          <Substitution in="nine.tnum" out="nine"/>
+          <Substitution in="one.tnum" out="one"/>
+          <Substitution in="seven.tnum" out="seven"/>
+          <Substitution in="six.tnum" out="six"/>
+          <Substitution in="three.tnum" out="three"/>
+          <Substitution in="two.tnum" out="two"/>
+          <Substitution in="zero.tnum" out="zero"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="14">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="eight.tnum"/>
+          <Substitution in="five" out="five.tnum"/>
+          <Substitution in="four" out="four.tnum"/>
+          <Substitution in="nine" out="nine.tnum"/>
+          <Substitution in="one" out="one.tnum"/>
+          <Substitution in="seven" out="seven.tnum"/>
+          <Substitution in="six" out="six.tnum"/>
+          <Substitution in="three" out="three.tnum"/>
+          <Substitution in="two" out="two.tnum"/>
+          <Substitution in="zero" out="zero.tnum"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="15">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="B">
+            <Ligature components="s,A,s" glyph="B_s_A_s"/>
+            <Ligature components="c,n" glyph="B_c_n"/>
+          </LigatureSet>
+          <LigatureSet glyph="P">
+            <Ligature components="t,o" glyph="Puerto"/>
+          </LigatureSet>
+          <LigatureSet glyph="S">
+            <Ligature components="t,g,o" glyph="S_t_g_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="period">
+            <Ligature components="c,o,m" glyph="dot_com"/>
+            <Ligature components="e,s" glyph="period_e_s"/>
+            <Ligature components="c,l" glyph="period_c_l"/>
+            <Ligature components="a,r" glyph="period_a_r"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="16">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="o" out="o.fina"/>
+          <Substitution in="r" out="r.fina"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="17">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="C">
+            <Ligature components="h" glyph="C_h"/>
+          </LigatureSet>
+          <LigatureSet glyph="L">
+            <Ligature components="l" glyph="L_l"/>
+          </LigatureSet>
+          <LigatureSet glyph="T">
+            <Ligature components="h" glyph="T_h"/>
+          </LigatureSet>
+          <LigatureSet glyph="c">
+            <Ligature components="k" glyph="c_k"/>
+            <Ligature components="h" glyph="c_h"/>
+            <Ligature components="t" glyph="c_t"/>
+            <Ligature components="l" glyph="c_l"/>
+          </LigatureSet>
+          <LigatureSet glyph="l">
+            <Ligature components="l" glyph="l_l"/>
+          </LigatureSet>
+          <LigatureSet glyph="r">
+            <Ligature components="r" glyph="r_r"/>
+          </LigatureSet>
+          <LigatureSet glyph="s">
+            <Ligature components="p" glyph="s_p"/>
+            <Ligature components="t" glyph="s_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="t" glyph="t_t"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="18">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="eight">
+            <Ligature components="fraction,nine" glyph="eightninths"/>
+            <Ligature components="fraction,uni2089" glyph="eightninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="eightninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="eightninths"/>
+            <Ligature components="slash,nine" glyph="eightninths"/>
+            <Ligature components="slash,uni2089" glyph="eightninths"/>
+            <Ligature components="slash,nine.tnum" glyph="eightninths"/>
+            <Ligature components="slash,ninesuperior" glyph="eightninths"/>
+          </LigatureSet>
+          <LigatureSet glyph="eight.tnum">
+            <Ligature components="fraction,nine" glyph="eightninths"/>
+            <Ligature components="fraction,uni2089" glyph="eightninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="eightninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="eightninths"/>
+            <Ligature components="slash,nine" glyph="eightninths"/>
+            <Ligature components="slash,uni2089" glyph="eightninths"/>
+            <Ligature components="slash,nine.tnum" glyph="eightninths"/>
+            <Ligature components="slash,ninesuperior" glyph="eightninths"/>
+          </LigatureSet>
+          <LigatureSet glyph="eightsuperior">
+            <Ligature components="fraction,nine" glyph="eightninths"/>
+            <Ligature components="fraction,uni2089" glyph="eightninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="eightninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="eightninths"/>
+            <Ligature components="slash,nine" glyph="eightninths"/>
+            <Ligature components="slash,uni2089" glyph="eightninths"/>
+            <Ligature components="slash,nine.tnum" glyph="eightninths"/>
+            <Ligature components="slash,ninesuperior" glyph="eightninths"/>
+          </LigatureSet>
+          <LigatureSet glyph="five">
+            <Ligature components="fraction,nine" glyph="fiveninths"/>
+            <Ligature components="fraction,uni2089" glyph="fiveninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="fiveninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="fiveninths"/>
+            <Ligature components="slash,nine" glyph="fiveninths"/>
+            <Ligature components="slash,uni2089" glyph="fiveninths"/>
+            <Ligature components="slash,nine.tnum" glyph="fiveninths"/>
+            <Ligature components="slash,ninesuperior" glyph="fiveninths"/>
+            <Ligature components="fraction,seven" glyph="fivesevenths"/>
+            <Ligature components="fraction,uni2087" glyph="fivesevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="fivesevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="fivesevenths"/>
+            <Ligature components="slash,seven" glyph="fivesevenths"/>
+            <Ligature components="slash,uni2087" glyph="fivesevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="fivesevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="fivesevenths"/>
+            <Ligature components="fraction,six" glyph="fivesixths"/>
+            <Ligature components="fraction,uni2086" glyph="fivesixths"/>
+            <Ligature components="fraction,six.tnum" glyph="fivesixths"/>
+            <Ligature components="fraction,sixsuperior" glyph="fivesixths"/>
+            <Ligature components="slash,six" glyph="fivesixths"/>
+            <Ligature components="slash,uni2086" glyph="fivesixths"/>
+            <Ligature components="slash,six.tnum" glyph="fivesixths"/>
+            <Ligature components="slash,sixsuperior" glyph="fivesixths"/>
+            <Ligature components="fraction,eight" glyph="fiveeighths"/>
+            <Ligature components="fraction,uni2088" glyph="fiveeighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="fiveeighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="fiveeighths"/>
+            <Ligature components="slash,eight" glyph="fiveeighths"/>
+            <Ligature components="slash,uni2088" glyph="fiveeighths"/>
+            <Ligature components="slash,eight.tnum" glyph="fiveeighths"/>
+            <Ligature components="slash,eightsuperior" glyph="fiveeighths"/>
+          </LigatureSet>
+          <LigatureSet glyph="five.tnum">
+            <Ligature components="fraction,nine" glyph="fiveninths"/>
+            <Ligature components="fraction,uni2089" glyph="fiveninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="fiveninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="fiveninths"/>
+            <Ligature components="slash,nine" glyph="fiveninths"/>
+            <Ligature components="slash,uni2089" glyph="fiveninths"/>
+            <Ligature components="slash,nine.tnum" glyph="fiveninths"/>
+            <Ligature components="slash,ninesuperior" glyph="fiveninths"/>
+            <Ligature components="fraction,seven" glyph="fivesevenths"/>
+            <Ligature components="fraction,uni2087" glyph="fivesevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="fivesevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="fivesevenths"/>
+            <Ligature components="slash,seven" glyph="fivesevenths"/>
+            <Ligature components="slash,uni2087" glyph="fivesevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="fivesevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="fivesevenths"/>
+            <Ligature components="fraction,six" glyph="fivesixths"/>
+            <Ligature components="fraction,uni2086" glyph="fivesixths"/>
+            <Ligature components="fraction,six.tnum" glyph="fivesixths"/>
+            <Ligature components="fraction,sixsuperior" glyph="fivesixths"/>
+            <Ligature components="slash,six" glyph="fivesixths"/>
+            <Ligature components="slash,uni2086" glyph="fivesixths"/>
+            <Ligature components="slash,six.tnum" glyph="fivesixths"/>
+            <Ligature components="slash,sixsuperior" glyph="fivesixths"/>
+            <Ligature components="fraction,eight" glyph="fiveeighths"/>
+            <Ligature components="fraction,uni2088" glyph="fiveeighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="fiveeighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="fiveeighths"/>
+            <Ligature components="slash,eight" glyph="fiveeighths"/>
+            <Ligature components="slash,uni2088" glyph="fiveeighths"/>
+            <Ligature components="slash,eight.tnum" glyph="fiveeighths"/>
+            <Ligature components="slash,eightsuperior" glyph="fiveeighths"/>
+          </LigatureSet>
+          <LigatureSet glyph="fivesuperior">
+            <Ligature components="fraction,nine" glyph="fiveninths"/>
+            <Ligature components="fraction,uni2089" glyph="fiveninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="fiveninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="fiveninths"/>
+            <Ligature components="slash,nine" glyph="fiveninths"/>
+            <Ligature components="slash,uni2089" glyph="fiveninths"/>
+            <Ligature components="slash,nine.tnum" glyph="fiveninths"/>
+            <Ligature components="slash,ninesuperior" glyph="fiveninths"/>
+            <Ligature components="fraction,seven" glyph="fivesevenths"/>
+            <Ligature components="fraction,uni2087" glyph="fivesevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="fivesevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="fivesevenths"/>
+            <Ligature components="slash,seven" glyph="fivesevenths"/>
+            <Ligature components="slash,uni2087" glyph="fivesevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="fivesevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="fivesevenths"/>
+            <Ligature components="fraction,six" glyph="fivesixths"/>
+            <Ligature components="fraction,uni2086" glyph="fivesixths"/>
+            <Ligature components="fraction,six.tnum" glyph="fivesixths"/>
+            <Ligature components="fraction,sixsuperior" glyph="fivesixths"/>
+            <Ligature components="slash,six" glyph="fivesixths"/>
+            <Ligature components="slash,uni2086" glyph="fivesixths"/>
+            <Ligature components="slash,six.tnum" glyph="fivesixths"/>
+            <Ligature components="slash,sixsuperior" glyph="fivesixths"/>
+            <Ligature components="fraction,eight" glyph="fiveeighths"/>
+            <Ligature components="fraction,uni2088" glyph="fiveeighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="fiveeighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="fiveeighths"/>
+            <Ligature components="slash,eight" glyph="fiveeighths"/>
+            <Ligature components="slash,uni2088" glyph="fiveeighths"/>
+            <Ligature components="slash,eight.tnum" glyph="fiveeighths"/>
+            <Ligature components="slash,eightsuperior" glyph="fiveeighths"/>
+          </LigatureSet>
+          <LigatureSet glyph="four">
+            <Ligature components="fraction,nine" glyph="fourninths"/>
+            <Ligature components="fraction,uni2089" glyph="fourninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="fourninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="fourninths"/>
+            <Ligature components="slash,nine" glyph="fourninths"/>
+            <Ligature components="slash,uni2089" glyph="fourninths"/>
+            <Ligature components="slash,nine.tnum" glyph="fourninths"/>
+            <Ligature components="slash,ninesuperior" glyph="fourninths"/>
+            <Ligature components="fraction,seven" glyph="foursevenths"/>
+            <Ligature components="fraction,uni2087" glyph="foursevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="foursevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="foursevenths"/>
+            <Ligature components="slash,seven" glyph="foursevenths"/>
+            <Ligature components="slash,uni2087" glyph="foursevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="foursevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="foursevenths"/>
+            <Ligature components="fraction,five" glyph="fourfifths"/>
+            <Ligature components="fraction,uni2085" glyph="fourfifths"/>
+            <Ligature components="fraction,five.tnum" glyph="fourfifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="fourfifths"/>
+            <Ligature components="slash,five" glyph="fourfifths"/>
+            <Ligature components="slash,uni2085" glyph="fourfifths"/>
+            <Ligature components="slash,five.tnum" glyph="fourfifths"/>
+            <Ligature components="slash,fivesuperior" glyph="fourfifths"/>
+          </LigatureSet>
+          <LigatureSet glyph="four.tnum">
+            <Ligature components="fraction,nine" glyph="fourninths"/>
+            <Ligature components="fraction,uni2089" glyph="fourninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="fourninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="fourninths"/>
+            <Ligature components="slash,nine" glyph="fourninths"/>
+            <Ligature components="slash,uni2089" glyph="fourninths"/>
+            <Ligature components="slash,nine.tnum" glyph="fourninths"/>
+            <Ligature components="slash,ninesuperior" glyph="fourninths"/>
+            <Ligature components="fraction,seven" glyph="foursevenths"/>
+            <Ligature components="fraction,uni2087" glyph="foursevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="foursevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="foursevenths"/>
+            <Ligature components="slash,seven" glyph="foursevenths"/>
+            <Ligature components="slash,uni2087" glyph="foursevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="foursevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="foursevenths"/>
+            <Ligature components="fraction,five" glyph="fourfifths"/>
+            <Ligature components="fraction,uni2085" glyph="fourfifths"/>
+            <Ligature components="fraction,five.tnum" glyph="fourfifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="fourfifths"/>
+            <Ligature components="slash,five" glyph="fourfifths"/>
+            <Ligature components="slash,uni2085" glyph="fourfifths"/>
+            <Ligature components="slash,five.tnum" glyph="fourfifths"/>
+            <Ligature components="slash,fivesuperior" glyph="fourfifths"/>
+          </LigatureSet>
+          <LigatureSet glyph="foursuperior">
+            <Ligature components="fraction,nine" glyph="fourninths"/>
+            <Ligature components="fraction,uni2089" glyph="fourninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="fourninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="fourninths"/>
+            <Ligature components="slash,nine" glyph="fourninths"/>
+            <Ligature components="slash,uni2089" glyph="fourninths"/>
+            <Ligature components="slash,nine.tnum" glyph="fourninths"/>
+            <Ligature components="slash,ninesuperior" glyph="fourninths"/>
+            <Ligature components="fraction,seven" glyph="foursevenths"/>
+            <Ligature components="fraction,uni2087" glyph="foursevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="foursevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="foursevenths"/>
+            <Ligature components="slash,seven" glyph="foursevenths"/>
+            <Ligature components="slash,uni2087" glyph="foursevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="foursevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="foursevenths"/>
+            <Ligature components="fraction,five" glyph="fourfifths"/>
+            <Ligature components="fraction,uni2085" glyph="fourfifths"/>
+            <Ligature components="fraction,five.tnum" glyph="fourfifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="fourfifths"/>
+            <Ligature components="slash,five" glyph="fourfifths"/>
+            <Ligature components="slash,uni2085" glyph="fourfifths"/>
+            <Ligature components="slash,five.tnum" glyph="fourfifths"/>
+            <Ligature components="slash,fivesuperior" glyph="fourfifths"/>
+          </LigatureSet>
+          <LigatureSet glyph="one">
+            <Ligature components="fraction,nine" glyph="oneninth"/>
+            <Ligature components="fraction,uni2089" glyph="oneninth"/>
+            <Ligature components="fraction,nine.tnum" glyph="oneninth"/>
+            <Ligature components="fraction,ninesuperior" glyph="oneninth"/>
+            <Ligature components="slash,nine" glyph="oneninth"/>
+            <Ligature components="slash,uni2089" glyph="oneninth"/>
+            <Ligature components="slash,nine.tnum" glyph="oneninth"/>
+            <Ligature components="slash,ninesuperior" glyph="oneninth"/>
+            <Ligature components="fraction,seven" glyph="oneseventh"/>
+            <Ligature components="fraction,uni2087" glyph="oneseventh"/>
+            <Ligature components="fraction,seven.tnum" glyph="oneseventh"/>
+            <Ligature components="fraction,sevensuperior" glyph="oneseventh"/>
+            <Ligature components="slash,seven" glyph="oneseventh"/>
+            <Ligature components="slash,uni2087" glyph="oneseventh"/>
+            <Ligature components="slash,seven.tnum" glyph="oneseventh"/>
+            <Ligature components="slash,sevensuperior" glyph="oneseventh"/>
+            <Ligature components="fraction,six" glyph="onesixth"/>
+            <Ligature components="fraction,uni2086" glyph="onesixth"/>
+            <Ligature components="fraction,six.tnum" glyph="onesixth"/>
+            <Ligature components="fraction,sixsuperior" glyph="onesixth"/>
+            <Ligature components="slash,six" glyph="onesixth"/>
+            <Ligature components="slash,uni2086" glyph="onesixth"/>
+            <Ligature components="slash,six.tnum" glyph="onesixth"/>
+            <Ligature components="slash,sixsuperior" glyph="onesixth"/>
+            <Ligature components="fraction,five" glyph="onefifth"/>
+            <Ligature components="fraction,uni2085" glyph="onefifth"/>
+            <Ligature components="fraction,five.tnum" glyph="onefifth"/>
+            <Ligature components="fraction,fivesuperior" glyph="onefifth"/>
+            <Ligature components="slash,five" glyph="onefifth"/>
+            <Ligature components="slash,uni2085" glyph="onefifth"/>
+            <Ligature components="slash,five.tnum" glyph="onefifth"/>
+            <Ligature components="slash,fivesuperior" glyph="onefifth"/>
+            <Ligature components="fraction,eight" glyph="oneeighth"/>
+            <Ligature components="fraction,uni2088" glyph="oneeighth"/>
+            <Ligature components="fraction,eight.tnum" glyph="oneeighth"/>
+            <Ligature components="fraction,eightsuperior" glyph="oneeighth"/>
+            <Ligature components="slash,eight" glyph="oneeighth"/>
+            <Ligature components="slash,uni2088" glyph="oneeighth"/>
+            <Ligature components="slash,eight.tnum" glyph="oneeighth"/>
+            <Ligature components="slash,eightsuperior" glyph="oneeighth"/>
+            <Ligature components="fraction,three" glyph="onethird"/>
+            <Ligature components="fraction,uni2083" glyph="onethird"/>
+            <Ligature components="fraction,three.tnum" glyph="onethird"/>
+            <Ligature components="fraction,threesuperior" glyph="onethird"/>
+            <Ligature components="slash,three" glyph="onethird"/>
+            <Ligature components="slash,uni2083" glyph="onethird"/>
+            <Ligature components="slash,three.tnum" glyph="onethird"/>
+            <Ligature components="slash,threesuperior" glyph="onethird"/>
+            <Ligature components="fraction,two" glyph="onehalf"/>
+            <Ligature components="fraction,uni2082" glyph="onehalf"/>
+            <Ligature components="fraction,two.tnum" glyph="onehalf"/>
+            <Ligature components="fraction,twosuperior" glyph="onehalf"/>
+            <Ligature components="slash,two" glyph="onehalf"/>
+            <Ligature components="slash,uni2082" glyph="onehalf"/>
+            <Ligature components="slash,two.tnum" glyph="onehalf"/>
+            <Ligature components="slash,twosuperior" glyph="onehalf"/>
+            <Ligature components="fraction,four" glyph="onequarter"/>
+            <Ligature components="fraction,uni2084" glyph="onequarter"/>
+            <Ligature components="fraction,four.tnum" glyph="onequarter"/>
+            <Ligature components="fraction,foursuperior" glyph="onequarter"/>
+            <Ligature components="slash,four" glyph="onequarter"/>
+            <Ligature components="slash,uni2084" glyph="onequarter"/>
+            <Ligature components="slash,four.tnum" glyph="onequarter"/>
+            <Ligature components="slash,foursuperior" glyph="onequarter"/>
+          </LigatureSet>
+          <LigatureSet glyph="one.tnum">
+            <Ligature components="fraction,nine" glyph="oneninth"/>
+            <Ligature components="fraction,uni2089" glyph="oneninth"/>
+            <Ligature components="fraction,nine.tnum" glyph="oneninth"/>
+            <Ligature components="fraction,ninesuperior" glyph="oneninth"/>
+            <Ligature components="slash,nine" glyph="oneninth"/>
+            <Ligature components="slash,uni2089" glyph="oneninth"/>
+            <Ligature components="slash,nine.tnum" glyph="oneninth"/>
+            <Ligature components="slash,ninesuperior" glyph="oneninth"/>
+            <Ligature components="fraction,seven" glyph="oneseventh"/>
+            <Ligature components="fraction,uni2087" glyph="oneseventh"/>
+            <Ligature components="fraction,seven.tnum" glyph="oneseventh"/>
+            <Ligature components="fraction,sevensuperior" glyph="oneseventh"/>
+            <Ligature components="slash,seven" glyph="oneseventh"/>
+            <Ligature components="slash,uni2087" glyph="oneseventh"/>
+            <Ligature components="slash,seven.tnum" glyph="oneseventh"/>
+            <Ligature components="slash,sevensuperior" glyph="oneseventh"/>
+            <Ligature components="fraction,six" glyph="onesixth"/>
+            <Ligature components="fraction,uni2086" glyph="onesixth"/>
+            <Ligature components="fraction,six.tnum" glyph="onesixth"/>
+            <Ligature components="fraction,sixsuperior" glyph="onesixth"/>
+            <Ligature components="slash,six" glyph="onesixth"/>
+            <Ligature components="slash,uni2086" glyph="onesixth"/>
+            <Ligature components="slash,six.tnum" glyph="onesixth"/>
+            <Ligature components="slash,sixsuperior" glyph="onesixth"/>
+            <Ligature components="fraction,five" glyph="onefifth"/>
+            <Ligature components="fraction,uni2085" glyph="onefifth"/>
+            <Ligature components="fraction,five.tnum" glyph="onefifth"/>
+            <Ligature components="fraction,fivesuperior" glyph="onefifth"/>
+            <Ligature components="slash,five" glyph="onefifth"/>
+            <Ligature components="slash,uni2085" glyph="onefifth"/>
+            <Ligature components="slash,five.tnum" glyph="onefifth"/>
+            <Ligature components="slash,fivesuperior" glyph="onefifth"/>
+            <Ligature components="fraction,eight" glyph="oneeighth"/>
+            <Ligature components="fraction,uni2088" glyph="oneeighth"/>
+            <Ligature components="fraction,eight.tnum" glyph="oneeighth"/>
+            <Ligature components="fraction,eightsuperior" glyph="oneeighth"/>
+            <Ligature components="slash,eight" glyph="oneeighth"/>
+            <Ligature components="slash,uni2088" glyph="oneeighth"/>
+            <Ligature components="slash,eight.tnum" glyph="oneeighth"/>
+            <Ligature components="slash,eightsuperior" glyph="oneeighth"/>
+            <Ligature components="fraction,three" glyph="onethird"/>
+            <Ligature components="fraction,uni2083" glyph="onethird"/>
+            <Ligature components="fraction,three.tnum" glyph="onethird"/>
+            <Ligature components="fraction,threesuperior" glyph="onethird"/>
+            <Ligature components="slash,three" glyph="onethird"/>
+            <Ligature components="slash,uni2083" glyph="onethird"/>
+            <Ligature components="slash,three.tnum" glyph="onethird"/>
+            <Ligature components="slash,threesuperior" glyph="onethird"/>
+            <Ligature components="fraction,two" glyph="onehalf"/>
+            <Ligature components="fraction,uni2082" glyph="onehalf"/>
+            <Ligature components="fraction,two.tnum" glyph="onehalf"/>
+            <Ligature components="fraction,twosuperior" glyph="onehalf"/>
+            <Ligature components="slash,two" glyph="onehalf"/>
+            <Ligature components="slash,uni2082" glyph="onehalf"/>
+            <Ligature components="slash,two.tnum" glyph="onehalf"/>
+            <Ligature components="slash,twosuperior" glyph="onehalf"/>
+            <Ligature components="fraction,four" glyph="onequarter"/>
+            <Ligature components="fraction,uni2084" glyph="onequarter"/>
+            <Ligature components="fraction,four.tnum" glyph="onequarter"/>
+            <Ligature components="fraction,foursuperior" glyph="onequarter"/>
+            <Ligature components="slash,four" glyph="onequarter"/>
+            <Ligature components="slash,uni2084" glyph="onequarter"/>
+            <Ligature components="slash,four.tnum" glyph="onequarter"/>
+            <Ligature components="slash,foursuperior" glyph="onequarter"/>
+          </LigatureSet>
+          <LigatureSet glyph="onesuperior">
+            <Ligature components="fraction,nine" glyph="oneninth"/>
+            <Ligature components="fraction,uni2089" glyph="oneninth"/>
+            <Ligature components="fraction,nine.tnum" glyph="oneninth"/>
+            <Ligature components="fraction,ninesuperior" glyph="oneninth"/>
+            <Ligature components="slash,nine" glyph="oneninth"/>
+            <Ligature components="slash,uni2089" glyph="oneninth"/>
+            <Ligature components="slash,nine.tnum" glyph="oneninth"/>
+            <Ligature components="slash,ninesuperior" glyph="oneninth"/>
+            <Ligature components="fraction,seven" glyph="oneseventh"/>
+            <Ligature components="fraction,uni2087" glyph="oneseventh"/>
+            <Ligature components="fraction,seven.tnum" glyph="oneseventh"/>
+            <Ligature components="fraction,sevensuperior" glyph="oneseventh"/>
+            <Ligature components="slash,seven" glyph="oneseventh"/>
+            <Ligature components="slash,uni2087" glyph="oneseventh"/>
+            <Ligature components="slash,seven.tnum" glyph="oneseventh"/>
+            <Ligature components="slash,sevensuperior" glyph="oneseventh"/>
+            <Ligature components="fraction,six" glyph="onesixth"/>
+            <Ligature components="fraction,uni2086" glyph="onesixth"/>
+            <Ligature components="fraction,six.tnum" glyph="onesixth"/>
+            <Ligature components="fraction,sixsuperior" glyph="onesixth"/>
+            <Ligature components="slash,six" glyph="onesixth"/>
+            <Ligature components="slash,uni2086" glyph="onesixth"/>
+            <Ligature components="slash,six.tnum" glyph="onesixth"/>
+            <Ligature components="slash,sixsuperior" glyph="onesixth"/>
+            <Ligature components="fraction,five" glyph="onefifth"/>
+            <Ligature components="fraction,uni2085" glyph="onefifth"/>
+            <Ligature components="fraction,five.tnum" glyph="onefifth"/>
+            <Ligature components="fraction,fivesuperior" glyph="onefifth"/>
+            <Ligature components="slash,five" glyph="onefifth"/>
+            <Ligature components="slash,uni2085" glyph="onefifth"/>
+            <Ligature components="slash,five.tnum" glyph="onefifth"/>
+            <Ligature components="slash,fivesuperior" glyph="onefifth"/>
+            <Ligature components="fraction,eight" glyph="oneeighth"/>
+            <Ligature components="fraction,uni2088" glyph="oneeighth"/>
+            <Ligature components="fraction,eight.tnum" glyph="oneeighth"/>
+            <Ligature components="fraction,eightsuperior" glyph="oneeighth"/>
+            <Ligature components="slash,eight" glyph="oneeighth"/>
+            <Ligature components="slash,uni2088" glyph="oneeighth"/>
+            <Ligature components="slash,eight.tnum" glyph="oneeighth"/>
+            <Ligature components="slash,eightsuperior" glyph="oneeighth"/>
+            <Ligature components="fraction,three" glyph="onethird"/>
+            <Ligature components="fraction,uni2083" glyph="onethird"/>
+            <Ligature components="fraction,three.tnum" glyph="onethird"/>
+            <Ligature components="fraction,threesuperior" glyph="onethird"/>
+            <Ligature components="slash,three" glyph="onethird"/>
+            <Ligature components="slash,uni2083" glyph="onethird"/>
+            <Ligature components="slash,three.tnum" glyph="onethird"/>
+            <Ligature components="slash,threesuperior" glyph="onethird"/>
+            <Ligature components="fraction,two" glyph="onehalf"/>
+            <Ligature components="fraction,uni2082" glyph="onehalf"/>
+            <Ligature components="fraction,two.tnum" glyph="onehalf"/>
+            <Ligature components="fraction,twosuperior" glyph="onehalf"/>
+            <Ligature components="slash,two" glyph="onehalf"/>
+            <Ligature components="slash,uni2082" glyph="onehalf"/>
+            <Ligature components="slash,two.tnum" glyph="onehalf"/>
+            <Ligature components="slash,twosuperior" glyph="onehalf"/>
+            <Ligature components="fraction,four" glyph="onequarter"/>
+            <Ligature components="fraction,uni2084" glyph="onequarter"/>
+            <Ligature components="fraction,four.tnum" glyph="onequarter"/>
+            <Ligature components="fraction,foursuperior" glyph="onequarter"/>
+            <Ligature components="slash,four" glyph="onequarter"/>
+            <Ligature components="slash,uni2084" glyph="onequarter"/>
+            <Ligature components="slash,four.tnum" glyph="onequarter"/>
+            <Ligature components="slash,foursuperior" glyph="onequarter"/>
+          </LigatureSet>
+          <LigatureSet glyph="seven">
+            <Ligature components="fraction,nine" glyph="sevenninths"/>
+            <Ligature components="fraction,uni2089" glyph="sevenninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="sevenninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="sevenninths"/>
+            <Ligature components="slash,nine" glyph="sevenninths"/>
+            <Ligature components="slash,uni2089" glyph="sevenninths"/>
+            <Ligature components="slash,nine.tnum" glyph="sevenninths"/>
+            <Ligature components="slash,ninesuperior" glyph="sevenninths"/>
+            <Ligature components="fraction,eight" glyph="seveneighths"/>
+            <Ligature components="fraction,uni2088" glyph="seveneighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="seveneighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="seveneighths"/>
+            <Ligature components="slash,eight" glyph="seveneighths"/>
+            <Ligature components="slash,uni2088" glyph="seveneighths"/>
+            <Ligature components="slash,eight.tnum" glyph="seveneighths"/>
+            <Ligature components="slash,eightsuperior" glyph="seveneighths"/>
+          </LigatureSet>
+          <LigatureSet glyph="seven.tnum">
+            <Ligature components="fraction,nine" glyph="sevenninths"/>
+            <Ligature components="fraction,uni2089" glyph="sevenninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="sevenninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="sevenninths"/>
+            <Ligature components="slash,nine" glyph="sevenninths"/>
+            <Ligature components="slash,uni2089" glyph="sevenninths"/>
+            <Ligature components="slash,nine.tnum" glyph="sevenninths"/>
+            <Ligature components="slash,ninesuperior" glyph="sevenninths"/>
+            <Ligature components="fraction,eight" glyph="seveneighths"/>
+            <Ligature components="fraction,uni2088" glyph="seveneighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="seveneighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="seveneighths"/>
+            <Ligature components="slash,eight" glyph="seveneighths"/>
+            <Ligature components="slash,uni2088" glyph="seveneighths"/>
+            <Ligature components="slash,eight.tnum" glyph="seveneighths"/>
+            <Ligature components="slash,eightsuperior" glyph="seveneighths"/>
+          </LigatureSet>
+          <LigatureSet glyph="sevensuperior">
+            <Ligature components="fraction,nine" glyph="sevenninths"/>
+            <Ligature components="fraction,uni2089" glyph="sevenninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="sevenninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="sevenninths"/>
+            <Ligature components="slash,nine" glyph="sevenninths"/>
+            <Ligature components="slash,uni2089" glyph="sevenninths"/>
+            <Ligature components="slash,nine.tnum" glyph="sevenninths"/>
+            <Ligature components="slash,ninesuperior" glyph="sevenninths"/>
+            <Ligature components="fraction,eight" glyph="seveneighths"/>
+            <Ligature components="fraction,uni2088" glyph="seveneighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="seveneighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="seveneighths"/>
+            <Ligature components="slash,eight" glyph="seveneighths"/>
+            <Ligature components="slash,uni2088" glyph="seveneighths"/>
+            <Ligature components="slash,eight.tnum" glyph="seveneighths"/>
+            <Ligature components="slash,eightsuperior" glyph="seveneighths"/>
+          </LigatureSet>
+          <LigatureSet glyph="six">
+            <Ligature components="fraction,seven" glyph="sixsevenths"/>
+            <Ligature components="fraction,uni2087" glyph="sixsevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="sixsevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="sixsevenths"/>
+            <Ligature components="slash,seven" glyph="sixsevenths"/>
+            <Ligature components="slash,uni2087" glyph="sixsevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="sixsevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="sixsevenths"/>
+          </LigatureSet>
+          <LigatureSet glyph="six.tnum">
+            <Ligature components="fraction,seven" glyph="sixsevenths"/>
+            <Ligature components="fraction,uni2087" glyph="sixsevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="sixsevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="sixsevenths"/>
+            <Ligature components="slash,seven" glyph="sixsevenths"/>
+            <Ligature components="slash,uni2087" glyph="sixsevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="sixsevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="sixsevenths"/>
+          </LigatureSet>
+          <LigatureSet glyph="sixsuperior">
+            <Ligature components="fraction,seven" glyph="sixsevenths"/>
+            <Ligature components="fraction,uni2087" glyph="sixsevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="sixsevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="sixsevenths"/>
+            <Ligature components="slash,seven" glyph="sixsevenths"/>
+            <Ligature components="slash,uni2087" glyph="sixsevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="sixsevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="sixsevenths"/>
+          </LigatureSet>
+          <LigatureSet glyph="three">
+            <Ligature components="fraction,seven" glyph="threesevenths"/>
+            <Ligature components="fraction,uni2087" glyph="threesevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="threesevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="threesevenths"/>
+            <Ligature components="slash,seven" glyph="threesevenths"/>
+            <Ligature components="slash,uni2087" glyph="threesevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="threesevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="threesevenths"/>
+            <Ligature components="fraction,five" glyph="threefifths"/>
+            <Ligature components="fraction,uni2085" glyph="threefifths"/>
+            <Ligature components="fraction,five.tnum" glyph="threefifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="threefifths"/>
+            <Ligature components="slash,five" glyph="threefifths"/>
+            <Ligature components="slash,uni2085" glyph="threefifths"/>
+            <Ligature components="slash,five.tnum" glyph="threefifths"/>
+            <Ligature components="slash,fivesuperior" glyph="threefifths"/>
+            <Ligature components="fraction,eight" glyph="threeeighths"/>
+            <Ligature components="fraction,uni2088" glyph="threeeighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="threeeighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="threeeighths"/>
+            <Ligature components="slash,eight" glyph="threeeighths"/>
+            <Ligature components="slash,uni2088" glyph="threeeighths"/>
+            <Ligature components="slash,eight.tnum" glyph="threeeighths"/>
+            <Ligature components="slash,eightsuperior" glyph="threeeighths"/>
+            <Ligature components="fraction,four" glyph="threequarters"/>
+            <Ligature components="fraction,uni2084" glyph="threequarters"/>
+            <Ligature components="fraction,four.tnum" glyph="threequarters"/>
+            <Ligature components="fraction,foursuperior" glyph="threequarters"/>
+            <Ligature components="slash,four" glyph="threequarters"/>
+            <Ligature components="slash,uni2084" glyph="threequarters"/>
+            <Ligature components="slash,four.tnum" glyph="threequarters"/>
+            <Ligature components="slash,foursuperior" glyph="threequarters"/>
+          </LigatureSet>
+          <LigatureSet glyph="three.tnum">
+            <Ligature components="fraction,seven" glyph="threesevenths"/>
+            <Ligature components="fraction,uni2087" glyph="threesevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="threesevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="threesevenths"/>
+            <Ligature components="slash,seven" glyph="threesevenths"/>
+            <Ligature components="slash,uni2087" glyph="threesevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="threesevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="threesevenths"/>
+            <Ligature components="fraction,five" glyph="threefifths"/>
+            <Ligature components="fraction,uni2085" glyph="threefifths"/>
+            <Ligature components="fraction,five.tnum" glyph="threefifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="threefifths"/>
+            <Ligature components="slash,five" glyph="threefifths"/>
+            <Ligature components="slash,uni2085" glyph="threefifths"/>
+            <Ligature components="slash,five.tnum" glyph="threefifths"/>
+            <Ligature components="slash,fivesuperior" glyph="threefifths"/>
+            <Ligature components="fraction,eight" glyph="threeeighths"/>
+            <Ligature components="fraction,uni2088" glyph="threeeighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="threeeighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="threeeighths"/>
+            <Ligature components="slash,eight" glyph="threeeighths"/>
+            <Ligature components="slash,uni2088" glyph="threeeighths"/>
+            <Ligature components="slash,eight.tnum" glyph="threeeighths"/>
+            <Ligature components="slash,eightsuperior" glyph="threeeighths"/>
+            <Ligature components="fraction,four" glyph="threequarters"/>
+            <Ligature components="fraction,uni2084" glyph="threequarters"/>
+            <Ligature components="fraction,four.tnum" glyph="threequarters"/>
+            <Ligature components="fraction,foursuperior" glyph="threequarters"/>
+            <Ligature components="slash,four" glyph="threequarters"/>
+            <Ligature components="slash,uni2084" glyph="threequarters"/>
+            <Ligature components="slash,four.tnum" glyph="threequarters"/>
+            <Ligature components="slash,foursuperior" glyph="threequarters"/>
+          </LigatureSet>
+          <LigatureSet glyph="threesuperior">
+            <Ligature components="fraction,seven" glyph="threesevenths"/>
+            <Ligature components="fraction,uni2087" glyph="threesevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="threesevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="threesevenths"/>
+            <Ligature components="slash,seven" glyph="threesevenths"/>
+            <Ligature components="slash,uni2087" glyph="threesevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="threesevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="threesevenths"/>
+            <Ligature components="fraction,five" glyph="threefifths"/>
+            <Ligature components="fraction,uni2085" glyph="threefifths"/>
+            <Ligature components="fraction,five.tnum" glyph="threefifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="threefifths"/>
+            <Ligature components="slash,five" glyph="threefifths"/>
+            <Ligature components="slash,uni2085" glyph="threefifths"/>
+            <Ligature components="slash,five.tnum" glyph="threefifths"/>
+            <Ligature components="slash,fivesuperior" glyph="threefifths"/>
+            <Ligature components="fraction,eight" glyph="threeeighths"/>
+            <Ligature components="fraction,uni2088" glyph="threeeighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="threeeighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="threeeighths"/>
+            <Ligature components="slash,eight" glyph="threeeighths"/>
+            <Ligature components="slash,uni2088" glyph="threeeighths"/>
+            <Ligature components="slash,eight.tnum" glyph="threeeighths"/>
+            <Ligature components="slash,eightsuperior" glyph="threeeighths"/>
+            <Ligature components="fraction,four" glyph="threequarters"/>
+            <Ligature components="fraction,uni2084" glyph="threequarters"/>
+            <Ligature components="fraction,four.tnum" glyph="threequarters"/>
+            <Ligature components="fraction,foursuperior" glyph="threequarters"/>
+            <Ligature components="slash,four" glyph="threequarters"/>
+            <Ligature components="slash,uni2084" glyph="threequarters"/>
+            <Ligature components="slash,four.tnum" glyph="threequarters"/>
+            <Ligature components="slash,foursuperior" glyph="threequarters"/>
+          </LigatureSet>
+          <LigatureSet glyph="two">
+            <Ligature components="fraction,nine" glyph="twoninths"/>
+            <Ligature components="fraction,uni2089" glyph="twoninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="twoninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="twoninths"/>
+            <Ligature components="slash,nine" glyph="twoninths"/>
+            <Ligature components="slash,uni2089" glyph="twoninths"/>
+            <Ligature components="slash,nine.tnum" glyph="twoninths"/>
+            <Ligature components="slash,ninesuperior" glyph="twoninths"/>
+            <Ligature components="fraction,seven" glyph="twosevenths"/>
+            <Ligature components="fraction,uni2087" glyph="twosevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="twosevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="twosevenths"/>
+            <Ligature components="slash,seven" glyph="twosevenths"/>
+            <Ligature components="slash,uni2087" glyph="twosevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="twosevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="twosevenths"/>
+            <Ligature components="fraction,five" glyph="twofifths"/>
+            <Ligature components="fraction,uni2085" glyph="twofifths"/>
+            <Ligature components="fraction,five.tnum" glyph="twofifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="twofifths"/>
+            <Ligature components="slash,five" glyph="twofifths"/>
+            <Ligature components="slash,uni2085" glyph="twofifths"/>
+            <Ligature components="slash,five.tnum" glyph="twofifths"/>
+            <Ligature components="slash,fivesuperior" glyph="twofifths"/>
+            <Ligature components="fraction,three" glyph="twothirds"/>
+            <Ligature components="fraction,uni2083" glyph="twothirds"/>
+            <Ligature components="fraction,three.tnum" glyph="twothirds"/>
+            <Ligature components="fraction,threesuperior" glyph="twothirds"/>
+            <Ligature components="slash,three" glyph="twothirds"/>
+            <Ligature components="slash,uni2083" glyph="twothirds"/>
+            <Ligature components="slash,three.tnum" glyph="twothirds"/>
+            <Ligature components="slash,threesuperior" glyph="twothirds"/>
+          </LigatureSet>
+          <LigatureSet glyph="two.tnum">
+            <Ligature components="fraction,nine" glyph="twoninths"/>
+            <Ligature components="fraction,uni2089" glyph="twoninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="twoninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="twoninths"/>
+            <Ligature components="slash,nine" glyph="twoninths"/>
+            <Ligature components="slash,uni2089" glyph="twoninths"/>
+            <Ligature components="slash,nine.tnum" glyph="twoninths"/>
+            <Ligature components="slash,ninesuperior" glyph="twoninths"/>
+            <Ligature components="fraction,seven" glyph="twosevenths"/>
+            <Ligature components="fraction,uni2087" glyph="twosevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="twosevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="twosevenths"/>
+            <Ligature components="slash,seven" glyph="twosevenths"/>
+            <Ligature components="slash,uni2087" glyph="twosevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="twosevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="twosevenths"/>
+            <Ligature components="fraction,five" glyph="twofifths"/>
+            <Ligature components="fraction,uni2085" glyph="twofifths"/>
+            <Ligature components="fraction,five.tnum" glyph="twofifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="twofifths"/>
+            <Ligature components="slash,five" glyph="twofifths"/>
+            <Ligature components="slash,uni2085" glyph="twofifths"/>
+            <Ligature components="slash,five.tnum" glyph="twofifths"/>
+            <Ligature components="slash,fivesuperior" glyph="twofifths"/>
+            <Ligature components="fraction,three" glyph="twothirds"/>
+            <Ligature components="fraction,uni2083" glyph="twothirds"/>
+            <Ligature components="fraction,three.tnum" glyph="twothirds"/>
+            <Ligature components="fraction,threesuperior" glyph="twothirds"/>
+            <Ligature components="slash,three" glyph="twothirds"/>
+            <Ligature components="slash,uni2083" glyph="twothirds"/>
+            <Ligature components="slash,three.tnum" glyph="twothirds"/>
+            <Ligature components="slash,threesuperior" glyph="twothirds"/>
+          </LigatureSet>
+          <LigatureSet glyph="twosuperior">
+            <Ligature components="fraction,nine" glyph="twoninths"/>
+            <Ligature components="fraction,uni2089" glyph="twoninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="twoninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="twoninths"/>
+            <Ligature components="slash,nine" glyph="twoninths"/>
+            <Ligature components="slash,uni2089" glyph="twoninths"/>
+            <Ligature components="slash,nine.tnum" glyph="twoninths"/>
+            <Ligature components="slash,ninesuperior" glyph="twoninths"/>
+            <Ligature components="fraction,seven" glyph="twosevenths"/>
+            <Ligature components="fraction,uni2087" glyph="twosevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="twosevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="twosevenths"/>
+            <Ligature components="slash,seven" glyph="twosevenths"/>
+            <Ligature components="slash,uni2087" glyph="twosevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="twosevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="twosevenths"/>
+            <Ligature components="fraction,five" glyph="twofifths"/>
+            <Ligature components="fraction,uni2085" glyph="twofifths"/>
+            <Ligature components="fraction,five.tnum" glyph="twofifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="twofifths"/>
+            <Ligature components="slash,five" glyph="twofifths"/>
+            <Ligature components="slash,uni2085" glyph="twofifths"/>
+            <Ligature components="slash,five.tnum" glyph="twofifths"/>
+            <Ligature components="slash,fivesuperior" glyph="twofifths"/>
+            <Ligature components="fraction,three" glyph="twothirds"/>
+            <Ligature components="fraction,uni2083" glyph="twothirds"/>
+            <Ligature components="fraction,three.tnum" glyph="twothirds"/>
+            <Ligature components="fraction,threesuperior" glyph="twothirds"/>
+            <Ligature components="slash,three" glyph="twothirds"/>
+            <Ligature components="slash,uni2083" glyph="twothirds"/>
+            <Ligature components="slash,three.tnum" glyph="twothirds"/>
+            <Ligature components="slash,threesuperior" glyph="twothirds"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni2080">
+            <Ligature components="fraction,zero,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zero,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zero,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zero,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zero" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zero,zero" glyph="perthousand"/>
+            <Ligature components="slash,zero,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zero,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zero,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zero" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zero" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zero" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zero" glyph="percent"/>
+            <Ligature components="fraction,uni2080" glyph="percent"/>
+            <Ligature components="fraction,zero.tnum" glyph="percent"/>
+            <Ligature components="fraction,zerosuperior" glyph="percent"/>
+            <Ligature components="slash,zero" glyph="percent"/>
+            <Ligature components="slash,uni2080" glyph="percent"/>
+            <Ligature components="slash,zero.tnum" glyph="percent"/>
+            <Ligature components="slash,zerosuperior" glyph="percent"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni2081">
+            <Ligature components="fraction,nine" glyph="oneninth"/>
+            <Ligature components="fraction,uni2089" glyph="oneninth"/>
+            <Ligature components="fraction,nine.tnum" glyph="oneninth"/>
+            <Ligature components="fraction,ninesuperior" glyph="oneninth"/>
+            <Ligature components="slash,nine" glyph="oneninth"/>
+            <Ligature components="slash,uni2089" glyph="oneninth"/>
+            <Ligature components="slash,nine.tnum" glyph="oneninth"/>
+            <Ligature components="slash,ninesuperior" glyph="oneninth"/>
+            <Ligature components="fraction,seven" glyph="oneseventh"/>
+            <Ligature components="fraction,uni2087" glyph="oneseventh"/>
+            <Ligature components="fraction,seven.tnum" glyph="oneseventh"/>
+            <Ligature components="fraction,sevensuperior" glyph="oneseventh"/>
+            <Ligature components="slash,seven" glyph="oneseventh"/>
+            <Ligature components="slash,uni2087" glyph="oneseventh"/>
+            <Ligature components="slash,seven.tnum" glyph="oneseventh"/>
+            <Ligature components="slash,sevensuperior" glyph="oneseventh"/>
+            <Ligature components="fraction,six" glyph="onesixth"/>
+            <Ligature components="fraction,uni2086" glyph="onesixth"/>
+            <Ligature components="fraction,six.tnum" glyph="onesixth"/>
+            <Ligature components="fraction,sixsuperior" glyph="onesixth"/>
+            <Ligature components="slash,six" glyph="onesixth"/>
+            <Ligature components="slash,uni2086" glyph="onesixth"/>
+            <Ligature components="slash,six.tnum" glyph="onesixth"/>
+            <Ligature components="slash,sixsuperior" glyph="onesixth"/>
+            <Ligature components="fraction,five" glyph="onefifth"/>
+            <Ligature components="fraction,uni2085" glyph="onefifth"/>
+            <Ligature components="fraction,five.tnum" glyph="onefifth"/>
+            <Ligature components="fraction,fivesuperior" glyph="onefifth"/>
+            <Ligature components="slash,five" glyph="onefifth"/>
+            <Ligature components="slash,uni2085" glyph="onefifth"/>
+            <Ligature components="slash,five.tnum" glyph="onefifth"/>
+            <Ligature components="slash,fivesuperior" glyph="onefifth"/>
+            <Ligature components="fraction,eight" glyph="oneeighth"/>
+            <Ligature components="fraction,uni2088" glyph="oneeighth"/>
+            <Ligature components="fraction,eight.tnum" glyph="oneeighth"/>
+            <Ligature components="fraction,eightsuperior" glyph="oneeighth"/>
+            <Ligature components="slash,eight" glyph="oneeighth"/>
+            <Ligature components="slash,uni2088" glyph="oneeighth"/>
+            <Ligature components="slash,eight.tnum" glyph="oneeighth"/>
+            <Ligature components="slash,eightsuperior" glyph="oneeighth"/>
+            <Ligature components="fraction,three" glyph="onethird"/>
+            <Ligature components="fraction,uni2083" glyph="onethird"/>
+            <Ligature components="fraction,three.tnum" glyph="onethird"/>
+            <Ligature components="fraction,threesuperior" glyph="onethird"/>
+            <Ligature components="slash,three" glyph="onethird"/>
+            <Ligature components="slash,uni2083" glyph="onethird"/>
+            <Ligature components="slash,three.tnum" glyph="onethird"/>
+            <Ligature components="slash,threesuperior" glyph="onethird"/>
+            <Ligature components="fraction,two" glyph="onehalf"/>
+            <Ligature components="fraction,uni2082" glyph="onehalf"/>
+            <Ligature components="fraction,two.tnum" glyph="onehalf"/>
+            <Ligature components="fraction,twosuperior" glyph="onehalf"/>
+            <Ligature components="slash,two" glyph="onehalf"/>
+            <Ligature components="slash,uni2082" glyph="onehalf"/>
+            <Ligature components="slash,two.tnum" glyph="onehalf"/>
+            <Ligature components="slash,twosuperior" glyph="onehalf"/>
+            <Ligature components="fraction,four" glyph="onequarter"/>
+            <Ligature components="fraction,uni2084" glyph="onequarter"/>
+            <Ligature components="fraction,four.tnum" glyph="onequarter"/>
+            <Ligature components="fraction,foursuperior" glyph="onequarter"/>
+            <Ligature components="slash,four" glyph="onequarter"/>
+            <Ligature components="slash,uni2084" glyph="onequarter"/>
+            <Ligature components="slash,four.tnum" glyph="onequarter"/>
+            <Ligature components="slash,foursuperior" glyph="onequarter"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni2082">
+            <Ligature components="fraction,nine" glyph="twoninths"/>
+            <Ligature components="fraction,uni2089" glyph="twoninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="twoninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="twoninths"/>
+            <Ligature components="slash,nine" glyph="twoninths"/>
+            <Ligature components="slash,uni2089" glyph="twoninths"/>
+            <Ligature components="slash,nine.tnum" glyph="twoninths"/>
+            <Ligature components="slash,ninesuperior" glyph="twoninths"/>
+            <Ligature components="fraction,seven" glyph="twosevenths"/>
+            <Ligature components="fraction,uni2087" glyph="twosevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="twosevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="twosevenths"/>
+            <Ligature components="slash,seven" glyph="twosevenths"/>
+            <Ligature components="slash,uni2087" glyph="twosevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="twosevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="twosevenths"/>
+            <Ligature components="fraction,five" glyph="twofifths"/>
+            <Ligature components="fraction,uni2085" glyph="twofifths"/>
+            <Ligature components="fraction,five.tnum" glyph="twofifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="twofifths"/>
+            <Ligature components="slash,five" glyph="twofifths"/>
+            <Ligature components="slash,uni2085" glyph="twofifths"/>
+            <Ligature components="slash,five.tnum" glyph="twofifths"/>
+            <Ligature components="slash,fivesuperior" glyph="twofifths"/>
+            <Ligature components="fraction,three" glyph="twothirds"/>
+            <Ligature components="fraction,uni2083" glyph="twothirds"/>
+            <Ligature components="fraction,three.tnum" glyph="twothirds"/>
+            <Ligature components="fraction,threesuperior" glyph="twothirds"/>
+            <Ligature components="slash,three" glyph="twothirds"/>
+            <Ligature components="slash,uni2083" glyph="twothirds"/>
+            <Ligature components="slash,three.tnum" glyph="twothirds"/>
+            <Ligature components="slash,threesuperior" glyph="twothirds"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni2083">
+            <Ligature components="fraction,seven" glyph="threesevenths"/>
+            <Ligature components="fraction,uni2087" glyph="threesevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="threesevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="threesevenths"/>
+            <Ligature components="slash,seven" glyph="threesevenths"/>
+            <Ligature components="slash,uni2087" glyph="threesevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="threesevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="threesevenths"/>
+            <Ligature components="fraction,five" glyph="threefifths"/>
+            <Ligature components="fraction,uni2085" glyph="threefifths"/>
+            <Ligature components="fraction,five.tnum" glyph="threefifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="threefifths"/>
+            <Ligature components="slash,five" glyph="threefifths"/>
+            <Ligature components="slash,uni2085" glyph="threefifths"/>
+            <Ligature components="slash,five.tnum" glyph="threefifths"/>
+            <Ligature components="slash,fivesuperior" glyph="threefifths"/>
+            <Ligature components="fraction,eight" glyph="threeeighths"/>
+            <Ligature components="fraction,uni2088" glyph="threeeighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="threeeighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="threeeighths"/>
+            <Ligature components="slash,eight" glyph="threeeighths"/>
+            <Ligature components="slash,uni2088" glyph="threeeighths"/>
+            <Ligature components="slash,eight.tnum" glyph="threeeighths"/>
+            <Ligature components="slash,eightsuperior" glyph="threeeighths"/>
+            <Ligature components="fraction,four" glyph="threequarters"/>
+            <Ligature components="fraction,uni2084" glyph="threequarters"/>
+            <Ligature components="fraction,four.tnum" glyph="threequarters"/>
+            <Ligature components="fraction,foursuperior" glyph="threequarters"/>
+            <Ligature components="slash,four" glyph="threequarters"/>
+            <Ligature components="slash,uni2084" glyph="threequarters"/>
+            <Ligature components="slash,four.tnum" glyph="threequarters"/>
+            <Ligature components="slash,foursuperior" glyph="threequarters"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni2084">
+            <Ligature components="fraction,nine" glyph="fourninths"/>
+            <Ligature components="fraction,uni2089" glyph="fourninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="fourninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="fourninths"/>
+            <Ligature components="slash,nine" glyph="fourninths"/>
+            <Ligature components="slash,uni2089" glyph="fourninths"/>
+            <Ligature components="slash,nine.tnum" glyph="fourninths"/>
+            <Ligature components="slash,ninesuperior" glyph="fourninths"/>
+            <Ligature components="fraction,seven" glyph="foursevenths"/>
+            <Ligature components="fraction,uni2087" glyph="foursevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="foursevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="foursevenths"/>
+            <Ligature components="slash,seven" glyph="foursevenths"/>
+            <Ligature components="slash,uni2087" glyph="foursevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="foursevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="foursevenths"/>
+            <Ligature components="fraction,five" glyph="fourfifths"/>
+            <Ligature components="fraction,uni2085" glyph="fourfifths"/>
+            <Ligature components="fraction,five.tnum" glyph="fourfifths"/>
+            <Ligature components="fraction,fivesuperior" glyph="fourfifths"/>
+            <Ligature components="slash,five" glyph="fourfifths"/>
+            <Ligature components="slash,uni2085" glyph="fourfifths"/>
+            <Ligature components="slash,five.tnum" glyph="fourfifths"/>
+            <Ligature components="slash,fivesuperior" glyph="fourfifths"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni2085">
+            <Ligature components="fraction,nine" glyph="fiveninths"/>
+            <Ligature components="fraction,uni2089" glyph="fiveninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="fiveninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="fiveninths"/>
+            <Ligature components="slash,nine" glyph="fiveninths"/>
+            <Ligature components="slash,uni2089" glyph="fiveninths"/>
+            <Ligature components="slash,nine.tnum" glyph="fiveninths"/>
+            <Ligature components="slash,ninesuperior" glyph="fiveninths"/>
+            <Ligature components="fraction,seven" glyph="fivesevenths"/>
+            <Ligature components="fraction,uni2087" glyph="fivesevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="fivesevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="fivesevenths"/>
+            <Ligature components="slash,seven" glyph="fivesevenths"/>
+            <Ligature components="slash,uni2087" glyph="fivesevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="fivesevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="fivesevenths"/>
+            <Ligature components="fraction,six" glyph="fivesixths"/>
+            <Ligature components="fraction,uni2086" glyph="fivesixths"/>
+            <Ligature components="fraction,six.tnum" glyph="fivesixths"/>
+            <Ligature components="fraction,sixsuperior" glyph="fivesixths"/>
+            <Ligature components="slash,six" glyph="fivesixths"/>
+            <Ligature components="slash,uni2086" glyph="fivesixths"/>
+            <Ligature components="slash,six.tnum" glyph="fivesixths"/>
+            <Ligature components="slash,sixsuperior" glyph="fivesixths"/>
+            <Ligature components="fraction,eight" glyph="fiveeighths"/>
+            <Ligature components="fraction,uni2088" glyph="fiveeighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="fiveeighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="fiveeighths"/>
+            <Ligature components="slash,eight" glyph="fiveeighths"/>
+            <Ligature components="slash,uni2088" glyph="fiveeighths"/>
+            <Ligature components="slash,eight.tnum" glyph="fiveeighths"/>
+            <Ligature components="slash,eightsuperior" glyph="fiveeighths"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni2086">
+            <Ligature components="fraction,seven" glyph="sixsevenths"/>
+            <Ligature components="fraction,uni2087" glyph="sixsevenths"/>
+            <Ligature components="fraction,seven.tnum" glyph="sixsevenths"/>
+            <Ligature components="fraction,sevensuperior" glyph="sixsevenths"/>
+            <Ligature components="slash,seven" glyph="sixsevenths"/>
+            <Ligature components="slash,uni2087" glyph="sixsevenths"/>
+            <Ligature components="slash,seven.tnum" glyph="sixsevenths"/>
+            <Ligature components="slash,sevensuperior" glyph="sixsevenths"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni2087">
+            <Ligature components="fraction,nine" glyph="sevenninths"/>
+            <Ligature components="fraction,uni2089" glyph="sevenninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="sevenninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="sevenninths"/>
+            <Ligature components="slash,nine" glyph="sevenninths"/>
+            <Ligature components="slash,uni2089" glyph="sevenninths"/>
+            <Ligature components="slash,nine.tnum" glyph="sevenninths"/>
+            <Ligature components="slash,ninesuperior" glyph="sevenninths"/>
+            <Ligature components="fraction,eight" glyph="seveneighths"/>
+            <Ligature components="fraction,uni2088" glyph="seveneighths"/>
+            <Ligature components="fraction,eight.tnum" glyph="seveneighths"/>
+            <Ligature components="fraction,eightsuperior" glyph="seveneighths"/>
+            <Ligature components="slash,eight" glyph="seveneighths"/>
+            <Ligature components="slash,uni2088" glyph="seveneighths"/>
+            <Ligature components="slash,eight.tnum" glyph="seveneighths"/>
+            <Ligature components="slash,eightsuperior" glyph="seveneighths"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni2088">
+            <Ligature components="fraction,nine" glyph="eightninths"/>
+            <Ligature components="fraction,uni2089" glyph="eightninths"/>
+            <Ligature components="fraction,nine.tnum" glyph="eightninths"/>
+            <Ligature components="fraction,ninesuperior" glyph="eightninths"/>
+            <Ligature components="slash,nine" glyph="eightninths"/>
+            <Ligature components="slash,uni2089" glyph="eightninths"/>
+            <Ligature components="slash,nine.tnum" glyph="eightninths"/>
+            <Ligature components="slash,ninesuperior" glyph="eightninths"/>
+          </LigatureSet>
+          <LigatureSet glyph="zero">
+            <Ligature components="fraction,zero,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zero,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zero,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zero,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zero" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zero,zero" glyph="perthousand"/>
+            <Ligature components="slash,zero,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zero,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zero,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zero" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zero" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zero" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zero" glyph="percent"/>
+            <Ligature components="fraction,uni2080" glyph="percent"/>
+            <Ligature components="fraction,zero.tnum" glyph="percent"/>
+            <Ligature components="fraction,zerosuperior" glyph="percent"/>
+            <Ligature components="slash,zero" glyph="percent"/>
+            <Ligature components="slash,uni2080" glyph="percent"/>
+            <Ligature components="slash,zero.tnum" glyph="percent"/>
+            <Ligature components="slash,zerosuperior" glyph="percent"/>
+          </LigatureSet>
+          <LigatureSet glyph="zero.tnum">
+            <Ligature components="fraction,zero,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zero,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zero,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zero,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zero" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zero,zero" glyph="perthousand"/>
+            <Ligature components="slash,zero,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zero,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zero,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zero" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zero" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zero" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zero" glyph="percent"/>
+            <Ligature components="fraction,uni2080" glyph="percent"/>
+            <Ligature components="fraction,zero.tnum" glyph="percent"/>
+            <Ligature components="fraction,zerosuperior" glyph="percent"/>
+            <Ligature components="slash,zero" glyph="percent"/>
+            <Ligature components="slash,uni2080" glyph="percent"/>
+            <Ligature components="slash,zero.tnum" glyph="percent"/>
+            <Ligature components="slash,zerosuperior" glyph="percent"/>
+          </LigatureSet>
+          <LigatureSet glyph="zerosuperior">
+            <Ligature components="fraction,zero,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zero,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zero,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zero,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zero" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,uni2080,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zero.tnum,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zero" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,uni2080" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zero.tnum" glyph="perthousand"/>
+            <Ligature components="fraction,zerosuperior,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zero,zero" glyph="perthousand"/>
+            <Ligature components="slash,zero,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zero,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zero,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zero" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,uni2080,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zero" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zero.tnum,zerosuperior" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zero" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,uni2080" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zero.tnum" glyph="perthousand"/>
+            <Ligature components="slash,zerosuperior,zerosuperior" glyph="perthousand"/>
+            <Ligature components="fraction,zero" glyph="percent"/>
+            <Ligature components="fraction,uni2080" glyph="percent"/>
+            <Ligature components="fraction,zero.tnum" glyph="percent"/>
+            <Ligature components="fraction,zerosuperior" glyph="percent"/>
+            <Ligature components="slash,zero" glyph="percent"/>
+            <Ligature components="slash,uni2080" glyph="percent"/>
+            <Ligature components="slash,zero.tnum" glyph="percent"/>
+            <Ligature components="slash,zerosuperior" glyph="percent"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="19">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=3 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="a"/>
+            <Glyph value="u"/>
+            <Glyph value="aacute"/>
+            <Glyph value="uacute"/>
+            <Glyph value="udieresis"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="g"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=0 -->
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="o"/>
+            <Glyph value="ograve"/>
+            <Glyph value="oacute"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value=".notdef"/>
+            <Glyph value="space"/>
+            <Glyph value="exclam"/>
+            <Glyph value="quotedbl"/>
+            <Glyph value="numbersign"/>
+            <Glyph value="dollar"/>
+            <Glyph value="percent"/>
+            <Glyph value="ampersand"/>
+            <Glyph value="quotesingle"/>
+            <Glyph value="parenleft"/>
+            <Glyph value="parenright"/>
+            <Glyph value="asterisk"/>
+            <Glyph value="plus"/>
+            <Glyph value="comma"/>
+            <Glyph value="hyphen"/>
+            <Glyph value="period"/>
+            <Glyph value="slash"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="colon"/>
+            <Glyph value="semicolon"/>
+            <Glyph value="less"/>
+            <Glyph value="equal"/>
+            <Glyph value="greater"/>
+            <Glyph value="question"/>
+            <Glyph value="at"/>
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="G"/>
+            <Glyph value="H"/>
+            <Glyph value="I"/>
+            <Glyph value="J"/>
+            <Glyph value="K"/>
+            <Glyph value="L"/>
+            <Glyph value="M"/>
+            <Glyph value="N"/>
+            <Glyph value="O"/>
+            <Glyph value="P"/>
+            <Glyph value="Q"/>
+            <Glyph value="R"/>
+            <Glyph value="S"/>
+            <Glyph value="T"/>
+            <Glyph value="U"/>
+            <Glyph value="V"/>
+            <Glyph value="W"/>
+            <Glyph value="X"/>
+            <Glyph value="Y"/>
+            <Glyph value="Z"/>
+            <Glyph value="bracketleft"/>
+            <Glyph value="backslash"/>
+            <Glyph value="bracketright"/>
+            <Glyph value="asciicircum"/>
+            <Glyph value="underscore"/>
+            <Glyph value="grave"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="g"/>
+            <Glyph value="h"/>
+            <Glyph value="i"/>
+            <Glyph value="j"/>
+            <Glyph value="k"/>
+            <Glyph value="l"/>
+            <Glyph value="m"/>
+            <Glyph value="n"/>
+            <Glyph value="o"/>
+            <Glyph value="p"/>
+            <Glyph value="q"/>
+            <Glyph value="r"/>
+            <Glyph value="s"/>
+            <Glyph value="t"/>
+            <Glyph value="u"/>
+            <Glyph value="v"/>
+            <Glyph value="w"/>
+            <Glyph value="x"/>
+            <Glyph value="y"/>
+            <Glyph value="z"/>
+            <Glyph value="braceleft"/>
+            <Glyph value="bar"/>
+            <Glyph value="braceright"/>
+            <Glyph value="asciitilde"/>
+            <Glyph value="exclamdown"/>
+            <Glyph value="cent"/>
+            <Glyph value="sterling"/>
+            <Glyph value="yen"/>
+            <Glyph value="brokenbar"/>
+            <Glyph value="section"/>
+            <Glyph value="dieresis"/>
+            <Glyph value="copyright"/>
+            <Glyph value="ordfeminine"/>
+            <Glyph value="guillemotleft"/>
+            <Glyph value="logicalnot"/>
+            <Glyph value="registered"/>
+            <Glyph value="macron"/>
+            <Glyph value="degree"/>
+            <Glyph value="plusminus"/>
+            <Glyph value="twosuperior"/>
+            <Glyph value="threesuperior"/>
+            <Glyph value="acute"/>
+            <Glyph value="mu"/>
+            <Glyph value="paragraph"/>
+            <Glyph value="periodcentered"/>
+            <Glyph value="cedilla"/>
+            <Glyph value="onesuperior"/>
+            <Glyph value="ordmasculine"/>
+            <Glyph value="guillemotright"/>
+            <Glyph value="onequarter"/>
+            <Glyph value="onehalf"/>
+            <Glyph value="threequarters"/>
+            <Glyph value="questiondown"/>
+            <Glyph value="Agrave"/>
+            <Glyph value="Aacute"/>
+            <Glyph value="Acircumflex"/>
+            <Glyph value="Atilde"/>
+            <Glyph value="Adieresis"/>
+            <Glyph value="Aring"/>
+            <Glyph value="AE"/>
+            <Glyph value="Ccedilla"/>
+            <Glyph value="Egrave"/>
+            <Glyph value="Eacute"/>
+            <Glyph value="Ecircumflex"/>
+            <Glyph value="Edieresis"/>
+            <Glyph value="Igrave"/>
+            <Glyph value="Iacute"/>
+            <Glyph value="Icircumflex"/>
+            <Glyph value="Idieresis"/>
+            <Glyph value="Eth"/>
+            <Glyph value="Ntilde"/>
+            <Glyph value="Ograve"/>
+            <Glyph value="Oacute"/>
+            <Glyph value="Ocircumflex"/>
+            <Glyph value="Otilde"/>
+            <Glyph value="Odieresis"/>
+            <Glyph value="multiply"/>
+            <Glyph value="Oslash"/>
+            <Glyph value="Ugrave"/>
+            <Glyph value="Uacute"/>
+            <Glyph value="Ucircumflex"/>
+            <Glyph value="Udieresis"/>
+            <Glyph value="Yacute"/>
+            <Glyph value="Thorn"/>
+            <Glyph value="germandbls"/>
+            <Glyph value="agrave"/>
+            <Glyph value="aacute"/>
+            <Glyph value="acircumflex"/>
+            <Glyph value="atilde"/>
+            <Glyph value="adieresis"/>
+            <Glyph value="aring"/>
+            <Glyph value="ae"/>
+            <Glyph value="ccedilla"/>
+            <Glyph value="egrave"/>
+            <Glyph value="eacute"/>
+            <Glyph value="ecircumflex"/>
+            <Glyph value="edieresis"/>
+            <Glyph value="igrave"/>
+            <Glyph value="iacute"/>
+            <Glyph value="icircumflex"/>
+            <Glyph value="idieresis"/>
+            <Glyph value="eth"/>
+            <Glyph value="ntilde"/>
+            <Glyph value="ograve"/>
+            <Glyph value="oacute"/>
+            <Glyph value="ocircumflex"/>
+            <Glyph value="otilde"/>
+            <Glyph value="odieresis"/>
+            <Glyph value="divide"/>
+            <Glyph value="oslash"/>
+            <Glyph value="ugrave"/>
+            <Glyph value="uacute"/>
+            <Glyph value="ucircumflex"/>
+            <Glyph value="udieresis"/>
+            <Glyph value="yacute"/>
+            <Glyph value="thorn"/>
+            <Glyph value="ydieresis"/>
+            <Glyph value="Amacron"/>
+            <Glyph value="amacron"/>
+            <Glyph value="Abreve"/>
+            <Glyph value="abreve"/>
+            <Glyph value="Aogonek"/>
+            <Glyph value="aogonek"/>
+            <Glyph value="Cacute"/>
+            <Glyph value="cacute"/>
+            <Glyph value="Ccircumflex"/>
+            <Glyph value="ccircumflex"/>
+            <Glyph value="Cdotaccent"/>
+            <Glyph value="cdotaccent"/>
+            <Glyph value="Ccaron"/>
+            <Glyph value="ccaron"/>
+            <Glyph value="Dcaron"/>
+            <Glyph value="dcaron"/>
+            <Glyph value="Dcroat"/>
+            <Glyph value="dcroat"/>
+            <Glyph value="Emacron"/>
+            <Glyph value="emacron"/>
+            <Glyph value="Edotaccent"/>
+            <Glyph value="edotaccent"/>
+            <Glyph value="Eogonek"/>
+            <Glyph value="eogonek"/>
+            <Glyph value="Ecaron"/>
+            <Glyph value="ecaron"/>
+            <Glyph value="Gcircumflex"/>
+            <Glyph value="gcircumflex"/>
+            <Glyph value="Gbreve"/>
+            <Glyph value="gbreve"/>
+            <Glyph value="Gdotaccent"/>
+            <Glyph value="gdotaccent"/>
+            <Glyph value="Gcommaaccent"/>
+            <Glyph value="gcommaaccent"/>
+            <Glyph value="Hcircumflex"/>
+            <Glyph value="hcircumflex"/>
+            <Glyph value="Hbar"/>
+            <Glyph value="hbar"/>
+            <Glyph value="Itilde"/>
+            <Glyph value="itilde"/>
+            <Glyph value="Imacron"/>
+            <Glyph value="imacron"/>
+            <Glyph value="Iogonek"/>
+            <Glyph value="iogonek"/>
+            <Glyph value="Idotaccent"/>
+            <Glyph value="dotlessi"/>
+            <Glyph value="Jcircumflex"/>
+            <Glyph value="jcircumflex"/>
+            <Glyph value="Kcommaaccent"/>
+            <Glyph value="kcommaaccent"/>
+            <Glyph value="kgreenlandic"/>
+            <Glyph value="Lacute"/>
+            <Glyph value="lacute"/>
+            <Glyph value="Lcommaaccent"/>
+            <Glyph value="lcommaaccent"/>
+            <Glyph value="Lcaron"/>
+            <Glyph value="lcaron"/>
+            <Glyph value="Lslash"/>
+            <Glyph value="lslash"/>
+            <Glyph value="Nacute"/>
+            <Glyph value="nacute"/>
+            <Glyph value="Ncommaaccent"/>
+            <Glyph value="ncommaaccent"/>
+            <Glyph value="Ncaron"/>
+            <Glyph value="ncaron"/>
+            <Glyph value="Eng"/>
+            <Glyph value="eng"/>
+            <Glyph value="Omacron"/>
+            <Glyph value="omacron"/>
+            <Glyph value="Ohungarumlaut"/>
+            <Glyph value="ohungarumlaut"/>
+            <Glyph value="OE"/>
+            <Glyph value="oe"/>
+            <Glyph value="Racute"/>
+            <Glyph value="racute"/>
+            <Glyph value="Rcommaaccent"/>
+            <Glyph value="rcommaaccent"/>
+            <Glyph value="Rcaron"/>
+            <Glyph value="rcaron"/>
+            <Glyph value="Sacute"/>
+            <Glyph value="sacute"/>
+            <Glyph value="Scircumflex"/>
+            <Glyph value="scircumflex"/>
+            <Glyph value="Scedilla"/>
+            <Glyph value="scedilla"/>
+            <Glyph value="Scaron"/>
+            <Glyph value="scaron"/>
+            <Glyph value="Tcommaaccent"/>
+            <Glyph value="tcommaaccent"/>
+            <Glyph value="Tcaron"/>
+            <Glyph value="tcaron"/>
+            <Glyph value="Tbar"/>
+            <Glyph value="tbar"/>
+            <Glyph value="Utilde"/>
+            <Glyph value="utilde"/>
+            <Glyph value="Umacron"/>
+            <Glyph value="umacron"/>
+            <Glyph value="Ubreve"/>
+            <Glyph value="ubreve"/>
+            <Glyph value="Uring"/>
+            <Glyph value="uring"/>
+            <Glyph value="Uhungarumlaut"/>
+            <Glyph value="uhungarumlaut"/>
+            <Glyph value="Uogonek"/>
+            <Glyph value="uogonek"/>
+            <Glyph value="Ydieresis"/>
+            <Glyph value="Zacute"/>
+            <Glyph value="zacute"/>
+            <Glyph value="Zdotaccent"/>
+            <Glyph value="zdotaccent"/>
+            <Glyph value="Zcaron"/>
+            <Glyph value="zcaron"/>
+            <Glyph value="florin"/>
+            <Glyph value="Scommaaccent"/>
+            <Glyph value="scommaaccent"/>
+            <Glyph value="circumflex"/>
+            <Glyph value="caron"/>
+            <Glyph value="breve"/>
+            <Glyph value="dotaccent"/>
+            <Glyph value="ring"/>
+            <Glyph value="ogonek"/>
+            <Glyph value="tilde"/>
+            <Glyph value="hungarumlaut"/>
+            <Glyph value="pi"/>
+            <Glyph value="endash"/>
+            <Glyph value="emdash"/>
+            <Glyph value="quoteleft"/>
+            <Glyph value="quoteright"/>
+            <Glyph value="quotesinglbase"/>
+            <Glyph value="quotedblleft"/>
+            <Glyph value="quotedblright"/>
+            <Glyph value="quotedblbase"/>
+            <Glyph value="dagger"/>
+            <Glyph value="daggerdbl"/>
+            <Glyph value="bullet"/>
+            <Glyph value="ellipsis"/>
+            <Glyph value="perthousand"/>
+            <Glyph value="guilsinglleft"/>
+            <Glyph value="guilsinglright"/>
+            <Glyph value="fraction"/>
+            <Glyph value="zerosuperior"/>
+            <Glyph value="foursuperior"/>
+            <Glyph value="fivesuperior"/>
+            <Glyph value="sixsuperior"/>
+            <Glyph value="sevensuperior"/>
+            <Glyph value="eightsuperior"/>
+            <Glyph value="ninesuperior"/>
+            <Glyph value="uni2080"/>
+            <Glyph value="uni2081"/>
+            <Glyph value="uni2082"/>
+            <Glyph value="uni2083"/>
+            <Glyph value="uni2084"/>
+            <Glyph value="uni2085"/>
+            <Glyph value="uni2086"/>
+            <Glyph value="uni2087"/>
+            <Glyph value="uni2088"/>
+            <Glyph value="uni2089"/>
+            <Glyph value="Euro"/>
+            <Glyph value="trademark"/>
+            <Glyph value="Omega"/>
+            <Glyph value="onethird"/>
+            <Glyph value="twothirds"/>
+            <Glyph value="oneeighth"/>
+            <Glyph value="threeeighths"/>
+            <Glyph value="fiveeighths"/>
+            <Glyph value="seveneighths"/>
+            <Glyph value="partialdiff"/>
+            <Glyph value="Delta"/>
+            <Glyph value="product"/>
+            <Glyph value="summation"/>
+            <Glyph value="minus"/>
+            <Glyph value="radical"/>
+            <Glyph value="infinity"/>
+            <Glyph value="integral"/>
+            <Glyph value="approxequal"/>
+            <Glyph value="notequal"/>
+            <Glyph value="lessequal"/>
+            <Glyph value="greaterequal"/>
+            <Glyph value="lozenge"/>
+            <Glyph value="f_f"/>
+            <Glyph value="fi"/>
+            <Glyph value="fl"/>
+            <Glyph value="f_f_i"/>
+            <Glyph value="s_t"/>
+            <Glyph value="A.alt"/>
+            <Glyph value="A.alt2"/>
+            <Glyph value="B.alt"/>
+            <Glyph value="C.alt"/>
+            <Glyph value="C_h"/>
+            <Glyph value="D.alt"/>
+            <Glyph value="G.alt"/>
+            <Glyph value="H.alt"/>
+            <Glyph value="I.alt"/>
+            <Glyph value="J.alt"/>
+            <Glyph value="K.alt"/>
+            <Glyph value="L.alt"/>
+            <Glyph value="L_l"/>
+            <Glyph value="M.alt"/>
+            <Glyph value="N.alt"/>
+            <Glyph value="Numero"/>
+            <Glyph value="O.alt"/>
+            <Glyph value="O.alt02"/>
+            <Glyph value="O.alt2"/>
+            <Glyph value="P.alt"/>
+            <Glyph value="Q.alt"/>
+            <Glyph value="R.alt"/>
+            <Glyph value="S.alt"/>
+            <Glyph value="T.alt"/>
+            <Glyph value="T_h"/>
+            <Glyph value="W.alt"/>
+            <Glyph value="W.alt.001"/>
+            <Glyph value="X.alt"/>
+            <Glyph value="Y.alt"/>
+            <Glyph value="a.alt"/>
+            <Glyph value="aacute.alt"/>
+            <Glyph value="agrave.alt"/>
+            <Glyph value="acircumflex.alt"/>
+            <Glyph value="adieresis.alt"/>
+            <Glyph value="atilde.alt"/>
+            <Glyph value="aring.alt"/>
+            <Glyph value="ampersand.alt"/>
+            <Glyph value="c_l"/>
+            <Glyph value="c_t"/>
+            <Glyph value="d.alt"/>
+            <Glyph value="e.alt"/>
+            <Glyph value="eacute.alt"/>
+            <Glyph value="egrave.alt"/>
+            <Glyph value="ecircumflex.alt"/>
+            <Glyph value="edieresis.alt"/>
+            <Glyph value="e.alt.001"/>
+            <Glyph value="f.alt"/>
+            <Glyph value="f_b"/>
+            <Glyph value="f_h"/>
+            <Glyph value="f_j"/>
+            <Glyph value="f_k"/>
+            <Glyph value="f_k.alt"/>
+            <Glyph value="f_t"/>
+            <Glyph value="g.alt"/>
+            <Glyph value="h.alt"/>
+            <Glyph value="i.alt"/>
+            <Glyph value="k.alt"/>
+            <Glyph value="l.alt"/>
+            <Glyph value="l_l"/>
+            <Glyph value="m.alt"/>
+            <Glyph value="m_r"/>
+            <Glyph value="n.alt"/>
+            <Glyph value="o.alt"/>
+            <Glyph value="o.fina"/>
+            <Glyph value="oacute.alt"/>
+            <Glyph value="ograve.alt"/>
+            <Glyph value="ocircumflex.alt"/>
+            <Glyph value="otilde.alt"/>
+            <Glyph value="odieresis.alt"/>
+            <Glyph value="r.fina"/>
+            <Glyph value="r_r"/>
+            <Glyph value="s_p"/>
+            <Glyph value="t_t"/>
+            <Glyph value="u.alt"/>
+            <Glyph value="uacute.alt"/>
+            <Glyph value="ugrave.alt"/>
+            <Glyph value="ucircumflex.alt"/>
+            <Glyph value="udieresis.alt"/>
+            <Glyph value="v.alt"/>
+            <Glyph value="w.alt"/>
+            <Glyph value="y.alt"/>
+            <Glyph value="z.alt"/>
+            <Glyph value="A.smcp"/>
+            <Glyph value="B.smcp"/>
+            <Glyph value="C.smcp"/>
+            <Glyph value="D.smcp"/>
+            <Glyph value="E.smcp"/>
+            <Glyph value="F.smcp"/>
+            <Glyph value="G.smcp"/>
+            <Glyph value="H.smcp"/>
+            <Glyph value="I.smcp"/>
+            <Glyph value="J.smcp"/>
+            <Glyph value="K.smcp"/>
+            <Glyph value="L.smcp"/>
+            <Glyph value="M.smcp"/>
+            <Glyph value="N.smcp"/>
+            <Glyph value="Ntilde.smcp"/>
+            <Glyph value="O.smcp"/>
+            <Glyph value="P.smcp"/>
+            <Glyph value="Q.smcp"/>
+            <Glyph value="R.smcp"/>
+            <Glyph value="S.smcp"/>
+            <Glyph value="T.smcp"/>
+            <Glyph value="U.smcp"/>
+            <Glyph value="V.smcp"/>
+            <Glyph value="W.smcp"/>
+            <Glyph value="X.smcp"/>
+            <Glyph value="Y.smcp"/>
+            <Glyph value="Z.smcp"/>
+            <Glyph value="zero.tnum"/>
+            <Glyph value="one.tnum"/>
+            <Glyph value="two.tnum"/>
+            <Glyph value="three.tnum"/>
+            <Glyph value="four.tnum"/>
+            <Glyph value="five.tnum"/>
+            <Glyph value="six.tnum"/>
+            <Glyph value="seven.tnum"/>
+            <Glyph value="eight.tnum"/>
+            <Glyph value="nine.tnum"/>
+            <Glyph value="onefifth"/>
+            <Glyph value="onesixth"/>
+            <Glyph value="oneseventh"/>
+            <Glyph value="oneninth"/>
+            <Glyph value="twofifths"/>
+            <Glyph value="twosevenths"/>
+            <Glyph value="twoninths"/>
+            <Glyph value="threefifths"/>
+            <Glyph value="threesevenths"/>
+            <Glyph value="fourfifths"/>
+            <Glyph value="foursevenths"/>
+            <Glyph value="fourninths"/>
+            <Glyph value="fivesixths"/>
+            <Glyph value="fivesevenths"/>
+            <Glyph value="fiveninths"/>
+            <Glyph value="sixsevenths"/>
+            <Glyph value="sevenninths"/>
+            <Glyph value="eightninths"/>
+            <Glyph value="d_a"/>
+            <Glyph value="d_o"/>
+            <Glyph value="e_r"/>
+            <Glyph value="e_r_a"/>
+            <Glyph value="e_r_o"/>
+            <Glyph value="m_a"/>
+            <Glyph value="m_o"/>
+            <Glyph value="n_a"/>
+            <Glyph value="n_d"/>
+            <Glyph value="n_o"/>
+            <Glyph value="ord_r"/>
+            <Glyph value="r_a"/>
+            <Glyph value="r_d"/>
+            <Glyph value="r_i_t_a"/>
+            <Glyph value="s_t.001"/>
+            <Glyph value="t_a"/>
+            <Glyph value="t_h"/>
+            <Glyph value="t_o"/>
+            <Glyph value="v_a"/>
+            <Glyph value="v_o"/>
+            <Glyph value="inicio"/>
+            <Glyph value="space.smcp"/>
+            <Glyph value="A.smcp.titl"/>
+            <Glyph value="B.smcp.titl"/>
+            <Glyph value="C.smcp.titl"/>
+            <Glyph value="D.smcp.titl"/>
+            <Glyph value="E.smcp.titl"/>
+            <Glyph value="F.smcp.titl"/>
+            <Glyph value="G.smcp.titl"/>
+            <Glyph value="H.smcp.titl"/>
+            <Glyph value="I.smcp.titl"/>
+            <Glyph value="J.smcp.titl"/>
+            <Glyph value="K.smcp.titl"/>
+            <Glyph value="L.smcp.titl"/>
+            <Glyph value="M.smcp.titl"/>
+            <Glyph value="N.smcp.titl"/>
+            <Glyph value="O.smcp.titl"/>
+            <Glyph value="P.smcp.titl"/>
+            <Glyph value="Q.smcp.titl"/>
+            <Glyph value="R.smcp.titl"/>
+            <Glyph value="S.smcp.titl"/>
+            <Glyph value="T.smcp.titl"/>
+            <Glyph value="U.smcp.titl"/>
+            <Glyph value="V.smcp.titl"/>
+            <Glyph value="W.smcp.titl"/>
+            <Glyph value="X.smcp.titl"/>
+            <Glyph value="Y.smcp.titl"/>
+            <Glyph value="Z.smcp.titl"/>
+            <Glyph value="final"/>
+            <Glyph value="B_c_n"/>
+            <Glyph value="B_s_A_s"/>
+            <Glyph value="Puerto"/>
+            <Glyph value="S_t_g_o"/>
+            <Glyph value="period_a_r"/>
+            <Glyph value="period_c_l"/>
+            <Glyph value="dot_com"/>
+            <Glyph value="period_e_s"/>
+            <Glyph value="camiseta1.ss01"/>
+            <Glyph value="camiseta1.ss02"/>
+            <Glyph value="camiseta1.ss03"/>
+            <Glyph value="camiseta2.ss02"/>
+            <Glyph value="camiseta2.ss03"/>
+            <Glyph value="camiseta3.ss02"/>
+            <Glyph value="camiseta3.ss03"/>
+            <Glyph value="camiseta4.ss02"/>
+            <Glyph value="camiseta4.ss03"/>
+            <Glyph value="camiseta5.ss02"/>
+            <Glyph value="camiseta5.ss03"/>
+            <Glyph value="camiseta6.ss02"/>
+            <Glyph value="camiseta6.ss03"/>
+            <Glyph value="icon1"/>
+            <Glyph value="icon2"/>
+            <Glyph value="icon3"/>
+            <Glyph value="icon4"/>
+            <Glyph value="icon5"/>
+            <Glyph value="diego"/>
+            <Glyph value="apple"/>
+            <Glyph value="fleuron10"/>
+            <Glyph value="apple1.alt"/>
+            <Glyph value="apple2.alt"/>
+            <Glyph value="flecha1"/>
+            <Glyph value="flecha2"/>
+            <Glyph value="flecha3"/>
+            <Glyph value="flecha4"/>
+            <Glyph value="fleuron01"/>
+            <Glyph value="fleuron02"/>
+            <Glyph value="fleuron03"/>
+            <Glyph value="fleuron04"/>
+            <Glyph value="fleuron05"/>
+            <Glyph value="fleuron06"/>
+            <Glyph value="fleuron08"/>
+            <Glyph value="c_h"/>
+            <Glyph value="c_k"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=0 -->
+        </ChainContextSubst>
+        <ChainContextSubst index="2" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="2">
+            <Glyph value="ampersand"/>
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="G"/>
+            <Glyph value="H"/>
+            <Glyph value="I"/>
+            <Glyph value="J"/>
+            <Glyph value="K"/>
+            <Glyph value="L"/>
+            <Glyph value="M"/>
+            <Glyph value="N"/>
+            <Glyph value="O"/>
+            <Glyph value="P"/>
+            <Glyph value="Q"/>
+            <Glyph value="R"/>
+            <Glyph value="S"/>
+            <Glyph value="T"/>
+            <Glyph value="W"/>
+            <Glyph value="X"/>
+            <Glyph value="Y"/>
+            <Glyph value="a"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="g"/>
+            <Glyph value="h"/>
+            <Glyph value="i"/>
+            <Glyph value="k"/>
+            <Glyph value="l"/>
+            <Glyph value="m"/>
+            <Glyph value="n"/>
+            <Glyph value="o"/>
+            <Glyph value="u"/>
+            <Glyph value="v"/>
+            <Glyph value="w"/>
+            <Glyph value="y"/>
+            <Glyph value="z"/>
+            <Glyph value="agrave"/>
+            <Glyph value="aacute"/>
+            <Glyph value="acircumflex"/>
+            <Glyph value="atilde"/>
+            <Glyph value="adieresis"/>
+            <Glyph value="aring"/>
+            <Glyph value="egrave"/>
+            <Glyph value="eacute"/>
+            <Glyph value="ecircumflex"/>
+            <Glyph value="edieresis"/>
+            <Glyph value="ograve"/>
+            <Glyph value="oacute"/>
+            <Glyph value="ocircumflex"/>
+            <Glyph value="otilde"/>
+            <Glyph value="odieresis"/>
+            <Glyph value="ugrave"/>
+            <Glyph value="uacute"/>
+            <Glyph value="ucircumflex"/>
+            <Glyph value="udieresis"/>
+            <Glyph value="f_k"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="20">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=3 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="a"/>
+            <Glyph value="u"/>
+            <Glyph value="aacute"/>
+            <Glyph value="uacute"/>
+            <Glyph value="udieresis"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="g"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=0 -->
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="o"/>
+            <Glyph value="ograve"/>
+            <Glyph value="oacute"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value=".notdef"/>
+            <Glyph value="space"/>
+            <Glyph value="exclam"/>
+            <Glyph value="quotedbl"/>
+            <Glyph value="numbersign"/>
+            <Glyph value="dollar"/>
+            <Glyph value="percent"/>
+            <Glyph value="ampersand"/>
+            <Glyph value="quotesingle"/>
+            <Glyph value="parenleft"/>
+            <Glyph value="parenright"/>
+            <Glyph value="asterisk"/>
+            <Glyph value="plus"/>
+            <Glyph value="comma"/>
+            <Glyph value="hyphen"/>
+            <Glyph value="period"/>
+            <Glyph value="slash"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="colon"/>
+            <Glyph value="semicolon"/>
+            <Glyph value="less"/>
+            <Glyph value="equal"/>
+            <Glyph value="greater"/>
+            <Glyph value="question"/>
+            <Glyph value="at"/>
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="G"/>
+            <Glyph value="H"/>
+            <Glyph value="I"/>
+            <Glyph value="J"/>
+            <Glyph value="K"/>
+            <Glyph value="L"/>
+            <Glyph value="M"/>
+            <Glyph value="N"/>
+            <Glyph value="O"/>
+            <Glyph value="P"/>
+            <Glyph value="Q"/>
+            <Glyph value="R"/>
+            <Glyph value="S"/>
+            <Glyph value="T"/>
+            <Glyph value="U"/>
+            <Glyph value="V"/>
+            <Glyph value="W"/>
+            <Glyph value="X"/>
+            <Glyph value="Y"/>
+            <Glyph value="Z"/>
+            <Glyph value="bracketleft"/>
+            <Glyph value="backslash"/>
+            <Glyph value="bracketright"/>
+            <Glyph value="asciicircum"/>
+            <Glyph value="underscore"/>
+            <Glyph value="grave"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="g"/>
+            <Glyph value="h"/>
+            <Glyph value="i"/>
+            <Glyph value="j"/>
+            <Glyph value="k"/>
+            <Glyph value="l"/>
+            <Glyph value="m"/>
+            <Glyph value="n"/>
+            <Glyph value="o"/>
+            <Glyph value="p"/>
+            <Glyph value="q"/>
+            <Glyph value="r"/>
+            <Glyph value="s"/>
+            <Glyph value="t"/>
+            <Glyph value="u"/>
+            <Glyph value="v"/>
+            <Glyph value="w"/>
+            <Glyph value="x"/>
+            <Glyph value="y"/>
+            <Glyph value="z"/>
+            <Glyph value="braceleft"/>
+            <Glyph value="bar"/>
+            <Glyph value="braceright"/>
+            <Glyph value="asciitilde"/>
+            <Glyph value="exclamdown"/>
+            <Glyph value="cent"/>
+            <Glyph value="sterling"/>
+            <Glyph value="yen"/>
+            <Glyph value="brokenbar"/>
+            <Glyph value="section"/>
+            <Glyph value="dieresis"/>
+            <Glyph value="copyright"/>
+            <Glyph value="ordfeminine"/>
+            <Glyph value="guillemotleft"/>
+            <Glyph value="logicalnot"/>
+            <Glyph value="registered"/>
+            <Glyph value="macron"/>
+            <Glyph value="degree"/>
+            <Glyph value="plusminus"/>
+            <Glyph value="twosuperior"/>
+            <Glyph value="threesuperior"/>
+            <Glyph value="acute"/>
+            <Glyph value="mu"/>
+            <Glyph value="paragraph"/>
+            <Glyph value="periodcentered"/>
+            <Glyph value="cedilla"/>
+            <Glyph value="onesuperior"/>
+            <Glyph value="ordmasculine"/>
+            <Glyph value="guillemotright"/>
+            <Glyph value="onequarter"/>
+            <Glyph value="onehalf"/>
+            <Glyph value="threequarters"/>
+            <Glyph value="questiondown"/>
+            <Glyph value="Agrave"/>
+            <Glyph value="Aacute"/>
+            <Glyph value="Acircumflex"/>
+            <Glyph value="Atilde"/>
+            <Glyph value="Adieresis"/>
+            <Glyph value="Aring"/>
+            <Glyph value="AE"/>
+            <Glyph value="Ccedilla"/>
+            <Glyph value="Egrave"/>
+            <Glyph value="Eacute"/>
+            <Glyph value="Ecircumflex"/>
+            <Glyph value="Edieresis"/>
+            <Glyph value="Igrave"/>
+            <Glyph value="Iacute"/>
+            <Glyph value="Icircumflex"/>
+            <Glyph value="Idieresis"/>
+            <Glyph value="Eth"/>
+            <Glyph value="Ntilde"/>
+            <Glyph value="Ograve"/>
+            <Glyph value="Oacute"/>
+            <Glyph value="Ocircumflex"/>
+            <Glyph value="Otilde"/>
+            <Glyph value="Odieresis"/>
+            <Glyph value="multiply"/>
+            <Glyph value="Oslash"/>
+            <Glyph value="Ugrave"/>
+            <Glyph value="Uacute"/>
+            <Glyph value="Ucircumflex"/>
+            <Glyph value="Udieresis"/>
+            <Glyph value="Yacute"/>
+            <Glyph value="Thorn"/>
+            <Glyph value="germandbls"/>
+            <Glyph value="agrave"/>
+            <Glyph value="aacute"/>
+            <Glyph value="acircumflex"/>
+            <Glyph value="atilde"/>
+            <Glyph value="adieresis"/>
+            <Glyph value="aring"/>
+            <Glyph value="ae"/>
+            <Glyph value="ccedilla"/>
+            <Glyph value="egrave"/>
+            <Glyph value="eacute"/>
+            <Glyph value="ecircumflex"/>
+            <Glyph value="edieresis"/>
+            <Glyph value="igrave"/>
+            <Glyph value="iacute"/>
+            <Glyph value="icircumflex"/>
+            <Glyph value="idieresis"/>
+            <Glyph value="eth"/>
+            <Glyph value="ntilde"/>
+            <Glyph value="ograve"/>
+            <Glyph value="oacute"/>
+            <Glyph value="ocircumflex"/>
+            <Glyph value="otilde"/>
+            <Glyph value="odieresis"/>
+            <Glyph value="divide"/>
+            <Glyph value="oslash"/>
+            <Glyph value="ugrave"/>
+            <Glyph value="uacute"/>
+            <Glyph value="ucircumflex"/>
+            <Glyph value="udieresis"/>
+            <Glyph value="yacute"/>
+            <Glyph value="thorn"/>
+            <Glyph value="ydieresis"/>
+            <Glyph value="Amacron"/>
+            <Glyph value="amacron"/>
+            <Glyph value="Abreve"/>
+            <Glyph value="abreve"/>
+            <Glyph value="Aogonek"/>
+            <Glyph value="aogonek"/>
+            <Glyph value="Cacute"/>
+            <Glyph value="cacute"/>
+            <Glyph value="Ccircumflex"/>
+            <Glyph value="ccircumflex"/>
+            <Glyph value="Cdotaccent"/>
+            <Glyph value="cdotaccent"/>
+            <Glyph value="Ccaron"/>
+            <Glyph value="ccaron"/>
+            <Glyph value="Dcaron"/>
+            <Glyph value="dcaron"/>
+            <Glyph value="Dcroat"/>
+            <Glyph value="dcroat"/>
+            <Glyph value="Emacron"/>
+            <Glyph value="emacron"/>
+            <Glyph value="Edotaccent"/>
+            <Glyph value="edotaccent"/>
+            <Glyph value="Eogonek"/>
+            <Glyph value="eogonek"/>
+            <Glyph value="Ecaron"/>
+            <Glyph value="ecaron"/>
+            <Glyph value="Gcircumflex"/>
+            <Glyph value="gcircumflex"/>
+            <Glyph value="Gbreve"/>
+            <Glyph value="gbreve"/>
+            <Glyph value="Gdotaccent"/>
+            <Glyph value="gdotaccent"/>
+            <Glyph value="Gcommaaccent"/>
+            <Glyph value="gcommaaccent"/>
+            <Glyph value="Hcircumflex"/>
+            <Glyph value="hcircumflex"/>
+            <Glyph value="Hbar"/>
+            <Glyph value="hbar"/>
+            <Glyph value="Itilde"/>
+            <Glyph value="itilde"/>
+            <Glyph value="Imacron"/>
+            <Glyph value="imacron"/>
+            <Glyph value="Iogonek"/>
+            <Glyph value="iogonek"/>
+            <Glyph value="Idotaccent"/>
+            <Glyph value="dotlessi"/>
+            <Glyph value="Jcircumflex"/>
+            <Glyph value="jcircumflex"/>
+            <Glyph value="Kcommaaccent"/>
+            <Glyph value="kcommaaccent"/>
+            <Glyph value="kgreenlandic"/>
+            <Glyph value="Lacute"/>
+            <Glyph value="lacute"/>
+            <Glyph value="Lcommaaccent"/>
+            <Glyph value="lcommaaccent"/>
+            <Glyph value="Lcaron"/>
+            <Glyph value="lcaron"/>
+            <Glyph value="Lslash"/>
+            <Glyph value="lslash"/>
+            <Glyph value="Nacute"/>
+            <Glyph value="nacute"/>
+            <Glyph value="Ncommaaccent"/>
+            <Glyph value="ncommaaccent"/>
+            <Glyph value="Ncaron"/>
+            <Glyph value="ncaron"/>
+            <Glyph value="Eng"/>
+            <Glyph value="eng"/>
+            <Glyph value="Omacron"/>
+            <Glyph value="omacron"/>
+            <Glyph value="Ohungarumlaut"/>
+            <Glyph value="ohungarumlaut"/>
+            <Glyph value="OE"/>
+            <Glyph value="oe"/>
+            <Glyph value="Racute"/>
+            <Glyph value="racute"/>
+            <Glyph value="Rcommaaccent"/>
+            <Glyph value="rcommaaccent"/>
+            <Glyph value="Rcaron"/>
+            <Glyph value="rcaron"/>
+            <Glyph value="Sacute"/>
+            <Glyph value="sacute"/>
+            <Glyph value="Scircumflex"/>
+            <Glyph value="scircumflex"/>
+            <Glyph value="Scedilla"/>
+            <Glyph value="scedilla"/>
+            <Glyph value="Scaron"/>
+            <Glyph value="scaron"/>
+            <Glyph value="Tcommaaccent"/>
+            <Glyph value="tcommaaccent"/>
+            <Glyph value="Tcaron"/>
+            <Glyph value="tcaron"/>
+            <Glyph value="Tbar"/>
+            <Glyph value="tbar"/>
+            <Glyph value="Utilde"/>
+            <Glyph value="utilde"/>
+            <Glyph value="Umacron"/>
+            <Glyph value="umacron"/>
+            <Glyph value="Ubreve"/>
+            <Glyph value="ubreve"/>
+            <Glyph value="Uring"/>
+            <Glyph value="uring"/>
+            <Glyph value="Uhungarumlaut"/>
+            <Glyph value="uhungarumlaut"/>
+            <Glyph value="Uogonek"/>
+            <Glyph value="uogonek"/>
+            <Glyph value="Ydieresis"/>
+            <Glyph value="Zacute"/>
+            <Glyph value="zacute"/>
+            <Glyph value="Zdotaccent"/>
+            <Glyph value="zdotaccent"/>
+            <Glyph value="Zcaron"/>
+            <Glyph value="zcaron"/>
+            <Glyph value="florin"/>
+            <Glyph value="Scommaaccent"/>
+            <Glyph value="scommaaccent"/>
+            <Glyph value="circumflex"/>
+            <Glyph value="caron"/>
+            <Glyph value="breve"/>
+            <Glyph value="dotaccent"/>
+            <Glyph value="ring"/>
+            <Glyph value="ogonek"/>
+            <Glyph value="tilde"/>
+            <Glyph value="hungarumlaut"/>
+            <Glyph value="pi"/>
+            <Glyph value="endash"/>
+            <Glyph value="emdash"/>
+            <Glyph value="quoteleft"/>
+            <Glyph value="quoteright"/>
+            <Glyph value="quotesinglbase"/>
+            <Glyph value="quotedblleft"/>
+            <Glyph value="quotedblright"/>
+            <Glyph value="quotedblbase"/>
+            <Glyph value="dagger"/>
+            <Glyph value="daggerdbl"/>
+            <Glyph value="bullet"/>
+            <Glyph value="ellipsis"/>
+            <Glyph value="perthousand"/>
+            <Glyph value="guilsinglleft"/>
+            <Glyph value="guilsinglright"/>
+            <Glyph value="fraction"/>
+            <Glyph value="zerosuperior"/>
+            <Glyph value="foursuperior"/>
+            <Glyph value="fivesuperior"/>
+            <Glyph value="sixsuperior"/>
+            <Glyph value="sevensuperior"/>
+            <Glyph value="eightsuperior"/>
+            <Glyph value="ninesuperior"/>
+            <Glyph value="uni2080"/>
+            <Glyph value="uni2081"/>
+            <Glyph value="uni2082"/>
+            <Glyph value="uni2083"/>
+            <Glyph value="uni2084"/>
+            <Glyph value="uni2085"/>
+            <Glyph value="uni2086"/>
+            <Glyph value="uni2087"/>
+            <Glyph value="uni2088"/>
+            <Glyph value="uni2089"/>
+            <Glyph value="Euro"/>
+            <Glyph value="trademark"/>
+            <Glyph value="Omega"/>
+            <Glyph value="onethird"/>
+            <Glyph value="twothirds"/>
+            <Glyph value="oneeighth"/>
+            <Glyph value="threeeighths"/>
+            <Glyph value="fiveeighths"/>
+            <Glyph value="seveneighths"/>
+            <Glyph value="partialdiff"/>
+            <Glyph value="Delta"/>
+            <Glyph value="product"/>
+            <Glyph value="summation"/>
+            <Glyph value="minus"/>
+            <Glyph value="radical"/>
+            <Glyph value="infinity"/>
+            <Glyph value="integral"/>
+            <Glyph value="approxequal"/>
+            <Glyph value="notequal"/>
+            <Glyph value="lessequal"/>
+            <Glyph value="greaterequal"/>
+            <Glyph value="lozenge"/>
+            <Glyph value="f_f"/>
+            <Glyph value="fi"/>
+            <Glyph value="fl"/>
+            <Glyph value="f_f_i"/>
+            <Glyph value="s_t"/>
+            <Glyph value="A.alt"/>
+            <Glyph value="A.alt2"/>
+            <Glyph value="B.alt"/>
+            <Glyph value="C.alt"/>
+            <Glyph value="C_h"/>
+            <Glyph value="D.alt"/>
+            <Glyph value="G.alt"/>
+            <Glyph value="H.alt"/>
+            <Glyph value="I.alt"/>
+            <Glyph value="J.alt"/>
+            <Glyph value="K.alt"/>
+            <Glyph value="L.alt"/>
+            <Glyph value="L_l"/>
+            <Glyph value="M.alt"/>
+            <Glyph value="N.alt"/>
+            <Glyph value="Numero"/>
+            <Glyph value="O.alt"/>
+            <Glyph value="O.alt02"/>
+            <Glyph value="O.alt2"/>
+            <Glyph value="P.alt"/>
+            <Glyph value="Q.alt"/>
+            <Glyph value="R.alt"/>
+            <Glyph value="S.alt"/>
+            <Glyph value="T.alt"/>
+            <Glyph value="T_h"/>
+            <Glyph value="W.alt"/>
+            <Glyph value="W.alt.001"/>
+            <Glyph value="X.alt"/>
+            <Glyph value="Y.alt"/>
+            <Glyph value="a.alt"/>
+            <Glyph value="aacute.alt"/>
+            <Glyph value="agrave.alt"/>
+            <Glyph value="acircumflex.alt"/>
+            <Glyph value="adieresis.alt"/>
+            <Glyph value="atilde.alt"/>
+            <Glyph value="aring.alt"/>
+            <Glyph value="ampersand.alt"/>
+            <Glyph value="c_l"/>
+            <Glyph value="c_t"/>
+            <Glyph value="d.alt"/>
+            <Glyph value="e.alt"/>
+            <Glyph value="eacute.alt"/>
+            <Glyph value="egrave.alt"/>
+            <Glyph value="ecircumflex.alt"/>
+            <Glyph value="edieresis.alt"/>
+            <Glyph value="e.alt.001"/>
+            <Glyph value="f.alt"/>
+            <Glyph value="f_b"/>
+            <Glyph value="f_h"/>
+            <Glyph value="f_j"/>
+            <Glyph value="f_k"/>
+            <Glyph value="f_k.alt"/>
+            <Glyph value="f_t"/>
+            <Glyph value="g.alt"/>
+            <Glyph value="h.alt"/>
+            <Glyph value="i.alt"/>
+            <Glyph value="k.alt"/>
+            <Glyph value="l.alt"/>
+            <Glyph value="l_l"/>
+            <Glyph value="m.alt"/>
+            <Glyph value="m_r"/>
+            <Glyph value="n.alt"/>
+            <Glyph value="o.alt"/>
+            <Glyph value="o.fina"/>
+            <Glyph value="oacute.alt"/>
+            <Glyph value="ograve.alt"/>
+            <Glyph value="ocircumflex.alt"/>
+            <Glyph value="otilde.alt"/>
+            <Glyph value="odieresis.alt"/>
+            <Glyph value="r.fina"/>
+            <Glyph value="r_r"/>
+            <Glyph value="s_p"/>
+            <Glyph value="t_t"/>
+            <Glyph value="u.alt"/>
+            <Glyph value="uacute.alt"/>
+            <Glyph value="ugrave.alt"/>
+            <Glyph value="ucircumflex.alt"/>
+            <Glyph value="udieresis.alt"/>
+            <Glyph value="v.alt"/>
+            <Glyph value="w.alt"/>
+            <Glyph value="y.alt"/>
+            <Glyph value="z.alt"/>
+            <Glyph value="A.smcp"/>
+            <Glyph value="B.smcp"/>
+            <Glyph value="C.smcp"/>
+            <Glyph value="D.smcp"/>
+            <Glyph value="E.smcp"/>
+            <Glyph value="F.smcp"/>
+            <Glyph value="G.smcp"/>
+            <Glyph value="H.smcp"/>
+            <Glyph value="I.smcp"/>
+            <Glyph value="J.smcp"/>
+            <Glyph value="K.smcp"/>
+            <Glyph value="L.smcp"/>
+            <Glyph value="M.smcp"/>
+            <Glyph value="N.smcp"/>
+            <Glyph value="Ntilde.smcp"/>
+            <Glyph value="O.smcp"/>
+            <Glyph value="P.smcp"/>
+            <Glyph value="Q.smcp"/>
+            <Glyph value="R.smcp"/>
+            <Glyph value="S.smcp"/>
+            <Glyph value="T.smcp"/>
+            <Glyph value="U.smcp"/>
+            <Glyph value="V.smcp"/>
+            <Glyph value="W.smcp"/>
+            <Glyph value="X.smcp"/>
+            <Glyph value="Y.smcp"/>
+            <Glyph value="Z.smcp"/>
+            <Glyph value="zero.tnum"/>
+            <Glyph value="one.tnum"/>
+            <Glyph value="two.tnum"/>
+            <Glyph value="three.tnum"/>
+            <Glyph value="four.tnum"/>
+            <Glyph value="five.tnum"/>
+            <Glyph value="six.tnum"/>
+            <Glyph value="seven.tnum"/>
+            <Glyph value="eight.tnum"/>
+            <Glyph value="nine.tnum"/>
+            <Glyph value="onefifth"/>
+            <Glyph value="onesixth"/>
+            <Glyph value="oneseventh"/>
+            <Glyph value="oneninth"/>
+            <Glyph value="twofifths"/>
+            <Glyph value="twosevenths"/>
+            <Glyph value="twoninths"/>
+            <Glyph value="threefifths"/>
+            <Glyph value="threesevenths"/>
+            <Glyph value="fourfifths"/>
+            <Glyph value="foursevenths"/>
+            <Glyph value="fourninths"/>
+            <Glyph value="fivesixths"/>
+            <Glyph value="fivesevenths"/>
+            <Glyph value="fiveninths"/>
+            <Glyph value="sixsevenths"/>
+            <Glyph value="sevenninths"/>
+            <Glyph value="eightninths"/>
+            <Glyph value="d_a"/>
+            <Glyph value="d_o"/>
+            <Glyph value="e_r"/>
+            <Glyph value="e_r_a"/>
+            <Glyph value="e_r_o"/>
+            <Glyph value="m_a"/>
+            <Glyph value="m_o"/>
+            <Glyph value="n_a"/>
+            <Glyph value="n_d"/>
+            <Glyph value="n_o"/>
+            <Glyph value="ord_r"/>
+            <Glyph value="r_a"/>
+            <Glyph value="r_d"/>
+            <Glyph value="r_i_t_a"/>
+            <Glyph value="s_t.001"/>
+            <Glyph value="t_a"/>
+            <Glyph value="t_h"/>
+            <Glyph value="t_o"/>
+            <Glyph value="v_a"/>
+            <Glyph value="v_o"/>
+            <Glyph value="inicio"/>
+            <Glyph value="space.smcp"/>
+            <Glyph value="A.smcp.titl"/>
+            <Glyph value="B.smcp.titl"/>
+            <Glyph value="C.smcp.titl"/>
+            <Glyph value="D.smcp.titl"/>
+            <Glyph value="E.smcp.titl"/>
+            <Glyph value="F.smcp.titl"/>
+            <Glyph value="G.smcp.titl"/>
+            <Glyph value="H.smcp.titl"/>
+            <Glyph value="I.smcp.titl"/>
+            <Glyph value="J.smcp.titl"/>
+            <Glyph value="K.smcp.titl"/>
+            <Glyph value="L.smcp.titl"/>
+            <Glyph value="M.smcp.titl"/>
+            <Glyph value="N.smcp.titl"/>
+            <Glyph value="O.smcp.titl"/>
+            <Glyph value="P.smcp.titl"/>
+            <Glyph value="Q.smcp.titl"/>
+            <Glyph value="R.smcp.titl"/>
+            <Glyph value="S.smcp.titl"/>
+            <Glyph value="T.smcp.titl"/>
+            <Glyph value="U.smcp.titl"/>
+            <Glyph value="V.smcp.titl"/>
+            <Glyph value="W.smcp.titl"/>
+            <Glyph value="X.smcp.titl"/>
+            <Glyph value="Y.smcp.titl"/>
+            <Glyph value="Z.smcp.titl"/>
+            <Glyph value="final"/>
+            <Glyph value="B_c_n"/>
+            <Glyph value="B_s_A_s"/>
+            <Glyph value="Puerto"/>
+            <Glyph value="S_t_g_o"/>
+            <Glyph value="period_a_r"/>
+            <Glyph value="period_c_l"/>
+            <Glyph value="dot_com"/>
+            <Glyph value="period_e_s"/>
+            <Glyph value="camiseta1.ss01"/>
+            <Glyph value="camiseta1.ss02"/>
+            <Glyph value="camiseta1.ss03"/>
+            <Glyph value="camiseta2.ss02"/>
+            <Glyph value="camiseta2.ss03"/>
+            <Glyph value="camiseta3.ss02"/>
+            <Glyph value="camiseta3.ss03"/>
+            <Glyph value="camiseta4.ss02"/>
+            <Glyph value="camiseta4.ss03"/>
+            <Glyph value="camiseta5.ss02"/>
+            <Glyph value="camiseta5.ss03"/>
+            <Glyph value="camiseta6.ss02"/>
+            <Glyph value="camiseta6.ss03"/>
+            <Glyph value="icon1"/>
+            <Glyph value="icon2"/>
+            <Glyph value="icon3"/>
+            <Glyph value="icon4"/>
+            <Glyph value="icon5"/>
+            <Glyph value="diego"/>
+            <Glyph value="apple"/>
+            <Glyph value="fleuron10"/>
+            <Glyph value="apple1.alt"/>
+            <Glyph value="apple2.alt"/>
+            <Glyph value="flecha1"/>
+            <Glyph value="flecha2"/>
+            <Glyph value="flecha3"/>
+            <Glyph value="flecha4"/>
+            <Glyph value="fleuron01"/>
+            <Glyph value="fleuron02"/>
+            <Glyph value="fleuron03"/>
+            <Glyph value="fleuron04"/>
+            <Glyph value="fleuron05"/>
+            <Glyph value="fleuron06"/>
+            <Glyph value="fleuron08"/>
+            <Glyph value="c_h"/>
+            <Glyph value="c_k"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=0 -->
+        </ChainContextSubst>
+        <ChainContextSubst index="2" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="2">
+            <Glyph value="ampersand"/>
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="G"/>
+            <Glyph value="H"/>
+            <Glyph value="I"/>
+            <Glyph value="J"/>
+            <Glyph value="K"/>
+            <Glyph value="L"/>
+            <Glyph value="M"/>
+            <Glyph value="N"/>
+            <Glyph value="O"/>
+            <Glyph value="P"/>
+            <Glyph value="Q"/>
+            <Glyph value="R"/>
+            <Glyph value="S"/>
+            <Glyph value="T"/>
+            <Glyph value="W"/>
+            <Glyph value="X"/>
+            <Glyph value="Y"/>
+            <Glyph value="a"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="g"/>
+            <Glyph value="h"/>
+            <Glyph value="i"/>
+            <Glyph value="k"/>
+            <Glyph value="l"/>
+            <Glyph value="m"/>
+            <Glyph value="n"/>
+            <Glyph value="o"/>
+            <Glyph value="u"/>
+            <Glyph value="v"/>
+            <Glyph value="w"/>
+            <Glyph value="y"/>
+            <Glyph value="z"/>
+            <Glyph value="agrave"/>
+            <Glyph value="aacute"/>
+            <Glyph value="acircumflex"/>
+            <Glyph value="atilde"/>
+            <Glyph value="adieresis"/>
+            <Glyph value="aring"/>
+            <Glyph value="egrave"/>
+            <Glyph value="eacute"/>
+            <Glyph value="ecircumflex"/>
+            <Glyph value="edieresis"/>
+            <Glyph value="ograve"/>
+            <Glyph value="oacute"/>
+            <Glyph value="ocircumflex"/>
+            <Glyph value="otilde"/>
+            <Glyph value="odieresis"/>
+            <Glyph value="ugrave"/>
+            <Glyph value="uacute"/>
+            <Glyph value="ucircumflex"/>
+            <Glyph value="udieresis"/>
+            <Glyph value="f_k"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="21">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value=".notdef"/>
+            <Glyph value="space"/>
+            <Glyph value="exclam"/>
+            <Glyph value="quotedbl"/>
+            <Glyph value="numbersign"/>
+            <Glyph value="dollar"/>
+            <Glyph value="percent"/>
+            <Glyph value="ampersand"/>
+            <Glyph value="quotesingle"/>
+            <Glyph value="parenleft"/>
+            <Glyph value="parenright"/>
+            <Glyph value="asterisk"/>
+            <Glyph value="plus"/>
+            <Glyph value="comma"/>
+            <Glyph value="hyphen"/>
+            <Glyph value="period"/>
+            <Glyph value="slash"/>
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+            <Glyph value="colon"/>
+            <Glyph value="semicolon"/>
+            <Glyph value="less"/>
+            <Glyph value="equal"/>
+            <Glyph value="greater"/>
+            <Glyph value="question"/>
+            <Glyph value="at"/>
+            <Glyph value="A"/>
+            <Glyph value="B"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="E"/>
+            <Glyph value="F"/>
+            <Glyph value="G"/>
+            <Glyph value="H"/>
+            <Glyph value="I"/>
+            <Glyph value="J"/>
+            <Glyph value="K"/>
+            <Glyph value="L"/>
+            <Glyph value="M"/>
+            <Glyph value="N"/>
+            <Glyph value="O"/>
+            <Glyph value="P"/>
+            <Glyph value="Q"/>
+            <Glyph value="R"/>
+            <Glyph value="S"/>
+            <Glyph value="T"/>
+            <Glyph value="U"/>
+            <Glyph value="V"/>
+            <Glyph value="W"/>
+            <Glyph value="X"/>
+            <Glyph value="Y"/>
+            <Glyph value="Z"/>
+            <Glyph value="bracketleft"/>
+            <Glyph value="backslash"/>
+            <Glyph value="bracketright"/>
+            <Glyph value="asciicircum"/>
+            <Glyph value="underscore"/>
+            <Glyph value="grave"/>
+            <Glyph value="a"/>
+            <Glyph value="b"/>
+            <Glyph value="c"/>
+            <Glyph value="d"/>
+            <Glyph value="e"/>
+            <Glyph value="f"/>
+            <Glyph value="g"/>
+            <Glyph value="h"/>
+            <Glyph value="i"/>
+            <Glyph value="j"/>
+            <Glyph value="k"/>
+            <Glyph value="l"/>
+            <Glyph value="m"/>
+            <Glyph value="n"/>
+            <Glyph value="o"/>
+            <Glyph value="p"/>
+            <Glyph value="q"/>
+            <Glyph value="r"/>
+            <Glyph value="s"/>
+            <Glyph value="t"/>
+            <Glyph value="u"/>
+            <Glyph value="v"/>
+            <Glyph value="w"/>
+            <Glyph value="x"/>
+            <Glyph value="y"/>
+            <Glyph value="z"/>
+            <Glyph value="braceleft"/>
+            <Glyph value="bar"/>
+            <Glyph value="braceright"/>
+            <Glyph value="asciitilde"/>
+            <Glyph value="exclamdown"/>
+            <Glyph value="cent"/>
+            <Glyph value="sterling"/>
+            <Glyph value="yen"/>
+            <Glyph value="brokenbar"/>
+            <Glyph value="section"/>
+            <Glyph value="dieresis"/>
+            <Glyph value="copyright"/>
+            <Glyph value="ordfeminine"/>
+            <Glyph value="guillemotleft"/>
+            <Glyph value="logicalnot"/>
+            <Glyph value="registered"/>
+            <Glyph value="macron"/>
+            <Glyph value="degree"/>
+            <Glyph value="plusminus"/>
+            <Glyph value="twosuperior"/>
+            <Glyph value="threesuperior"/>
+            <Glyph value="acute"/>
+            <Glyph value="mu"/>
+            <Glyph value="paragraph"/>
+            <Glyph value="periodcentered"/>
+            <Glyph value="cedilla"/>
+            <Glyph value="onesuperior"/>
+            <Glyph value="ordmasculine"/>
+            <Glyph value="guillemotright"/>
+            <Glyph value="onequarter"/>
+            <Glyph value="onehalf"/>
+            <Glyph value="threequarters"/>
+            <Glyph value="questiondown"/>
+            <Glyph value="Agrave"/>
+            <Glyph value="Aacute"/>
+            <Glyph value="Acircumflex"/>
+            <Glyph value="Atilde"/>
+            <Glyph value="Adieresis"/>
+            <Glyph value="Aring"/>
+            <Glyph value="AE"/>
+            <Glyph value="Ccedilla"/>
+            <Glyph value="Egrave"/>
+            <Glyph value="Eacute"/>
+            <Glyph value="Ecircumflex"/>
+            <Glyph value="Edieresis"/>
+            <Glyph value="Igrave"/>
+            <Glyph value="Iacute"/>
+            <Glyph value="Icircumflex"/>
+            <Glyph value="Idieresis"/>
+            <Glyph value="Eth"/>
+            <Glyph value="Ntilde"/>
+            <Glyph value="Ograve"/>
+            <Glyph value="Oacute"/>
+            <Glyph value="Ocircumflex"/>
+            <Glyph value="Otilde"/>
+            <Glyph value="Odieresis"/>
+            <Glyph value="multiply"/>
+            <Glyph value="Oslash"/>
+            <Glyph value="Ugrave"/>
+            <Glyph value="Uacute"/>
+            <Glyph value="Ucircumflex"/>
+            <Glyph value="Udieresis"/>
+            <Glyph value="Yacute"/>
+            <Glyph value="Thorn"/>
+            <Glyph value="germandbls"/>
+            <Glyph value="agrave"/>
+            <Glyph value="aacute"/>
+            <Glyph value="acircumflex"/>
+            <Glyph value="atilde"/>
+            <Glyph value="adieresis"/>
+            <Glyph value="aring"/>
+            <Glyph value="ae"/>
+            <Glyph value="ccedilla"/>
+            <Glyph value="egrave"/>
+            <Glyph value="eacute"/>
+            <Glyph value="ecircumflex"/>
+            <Glyph value="edieresis"/>
+            <Glyph value="igrave"/>
+            <Glyph value="iacute"/>
+            <Glyph value="icircumflex"/>
+            <Glyph value="idieresis"/>
+            <Glyph value="eth"/>
+            <Glyph value="ntilde"/>
+            <Glyph value="ograve"/>
+            <Glyph value="oacute"/>
+            <Glyph value="ocircumflex"/>
+            <Glyph value="otilde"/>
+            <Glyph value="odieresis"/>
+            <Glyph value="divide"/>
+            <Glyph value="oslash"/>
+            <Glyph value="ugrave"/>
+            <Glyph value="uacute"/>
+            <Glyph value="ucircumflex"/>
+            <Glyph value="udieresis"/>
+            <Glyph value="yacute"/>
+            <Glyph value="thorn"/>
+            <Glyph value="ydieresis"/>
+            <Glyph value="Amacron"/>
+            <Glyph value="amacron"/>
+            <Glyph value="Abreve"/>
+            <Glyph value="abreve"/>
+            <Glyph value="Aogonek"/>
+            <Glyph value="aogonek"/>
+            <Glyph value="Cacute"/>
+            <Glyph value="cacute"/>
+            <Glyph value="Ccircumflex"/>
+            <Glyph value="ccircumflex"/>
+            <Glyph value="Cdotaccent"/>
+            <Glyph value="cdotaccent"/>
+            <Glyph value="Ccaron"/>
+            <Glyph value="ccaron"/>
+            <Glyph value="Dcaron"/>
+            <Glyph value="dcaron"/>
+            <Glyph value="Dcroat"/>
+            <Glyph value="dcroat"/>
+            <Glyph value="Emacron"/>
+            <Glyph value="emacron"/>
+            <Glyph value="Edotaccent"/>
+            <Glyph value="edotaccent"/>
+            <Glyph value="Eogonek"/>
+            <Glyph value="eogonek"/>
+            <Glyph value="Ecaron"/>
+            <Glyph value="ecaron"/>
+            <Glyph value="Gcircumflex"/>
+            <Glyph value="gcircumflex"/>
+            <Glyph value="Gbreve"/>
+            <Glyph value="gbreve"/>
+            <Glyph value="Gdotaccent"/>
+            <Glyph value="gdotaccent"/>
+            <Glyph value="Gcommaaccent"/>
+            <Glyph value="gcommaaccent"/>
+            <Glyph value="Hcircumflex"/>
+            <Glyph value="hcircumflex"/>
+            <Glyph value="Hbar"/>
+            <Glyph value="hbar"/>
+            <Glyph value="Itilde"/>
+            <Glyph value="itilde"/>
+            <Glyph value="Imacron"/>
+            <Glyph value="imacron"/>
+            <Glyph value="Iogonek"/>
+            <Glyph value="iogonek"/>
+            <Glyph value="Idotaccent"/>
+            <Glyph value="dotlessi"/>
+            <Glyph value="Jcircumflex"/>
+            <Glyph value="jcircumflex"/>
+            <Glyph value="Kcommaaccent"/>
+            <Glyph value="kcommaaccent"/>
+            <Glyph value="kgreenlandic"/>
+            <Glyph value="Lacute"/>
+            <Glyph value="lacute"/>
+            <Glyph value="Lcommaaccent"/>
+            <Glyph value="lcommaaccent"/>
+            <Glyph value="Lcaron"/>
+            <Glyph value="lcaron"/>
+            <Glyph value="Lslash"/>
+            <Glyph value="lslash"/>
+            <Glyph value="Nacute"/>
+            <Glyph value="nacute"/>
+            <Glyph value="Ncommaaccent"/>
+            <Glyph value="ncommaaccent"/>
+            <Glyph value="Ncaron"/>
+            <Glyph value="ncaron"/>
+            <Glyph value="Eng"/>
+            <Glyph value="eng"/>
+            <Glyph value="Omacron"/>
+            <Glyph value="omacron"/>
+            <Glyph value="Ohungarumlaut"/>
+            <Glyph value="ohungarumlaut"/>
+            <Glyph value="OE"/>
+            <Glyph value="oe"/>
+            <Glyph value="Racute"/>
+            <Glyph value="racute"/>
+            <Glyph value="Rcommaaccent"/>
+            <Glyph value="rcommaaccent"/>
+            <Glyph value="Rcaron"/>
+            <Glyph value="rcaron"/>
+            <Glyph value="Sacute"/>
+            <Glyph value="sacute"/>
+            <Glyph value="Scircumflex"/>
+            <Glyph value="scircumflex"/>
+            <Glyph value="Scedilla"/>
+            <Glyph value="scedilla"/>
+            <Glyph value="Scaron"/>
+            <Glyph value="scaron"/>
+            <Glyph value="Tcommaaccent"/>
+            <Glyph value="tcommaaccent"/>
+            <Glyph value="Tcaron"/>
+            <Glyph value="tcaron"/>
+            <Glyph value="Tbar"/>
+            <Glyph value="tbar"/>
+            <Glyph value="Utilde"/>
+            <Glyph value="utilde"/>
+            <Glyph value="Umacron"/>
+            <Glyph value="umacron"/>
+            <Glyph value="Ubreve"/>
+            <Glyph value="ubreve"/>
+            <Glyph value="Uring"/>
+            <Glyph value="uring"/>
+            <Glyph value="Uhungarumlaut"/>
+            <Glyph value="uhungarumlaut"/>
+            <Glyph value="Uogonek"/>
+            <Glyph value="uogonek"/>
+            <Glyph value="Ydieresis"/>
+            <Glyph value="Zacute"/>
+            <Glyph value="zacute"/>
+            <Glyph value="Zdotaccent"/>
+            <Glyph value="zdotaccent"/>
+            <Glyph value="Zcaron"/>
+            <Glyph value="zcaron"/>
+            <Glyph value="florin"/>
+            <Glyph value="Scommaaccent"/>
+            <Glyph value="scommaaccent"/>
+            <Glyph value="circumflex"/>
+            <Glyph value="caron"/>
+            <Glyph value="breve"/>
+            <Glyph value="dotaccent"/>
+            <Glyph value="ring"/>
+            <Glyph value="ogonek"/>
+            <Glyph value="tilde"/>
+            <Glyph value="hungarumlaut"/>
+            <Glyph value="pi"/>
+            <Glyph value="endash"/>
+            <Glyph value="emdash"/>
+            <Glyph value="quoteleft"/>
+            <Glyph value="quoteright"/>
+            <Glyph value="quotesinglbase"/>
+            <Glyph value="quotedblleft"/>
+            <Glyph value="quotedblright"/>
+            <Glyph value="quotedblbase"/>
+            <Glyph value="dagger"/>
+            <Glyph value="daggerdbl"/>
+            <Glyph value="bullet"/>
+            <Glyph value="ellipsis"/>
+            <Glyph value="perthousand"/>
+            <Glyph value="guilsinglleft"/>
+            <Glyph value="guilsinglright"/>
+            <Glyph value="fraction"/>
+            <Glyph value="zerosuperior"/>
+            <Glyph value="foursuperior"/>
+            <Glyph value="fivesuperior"/>
+            <Glyph value="sixsuperior"/>
+            <Glyph value="sevensuperior"/>
+            <Glyph value="eightsuperior"/>
+            <Glyph value="ninesuperior"/>
+            <Glyph value="uni2080"/>
+            <Glyph value="uni2081"/>
+            <Glyph value="uni2082"/>
+            <Glyph value="uni2083"/>
+            <Glyph value="uni2084"/>
+            <Glyph value="uni2085"/>
+            <Glyph value="uni2086"/>
+            <Glyph value="uni2087"/>
+            <Glyph value="uni2088"/>
+            <Glyph value="uni2089"/>
+            <Glyph value="Euro"/>
+            <Glyph value="trademark"/>
+            <Glyph value="Omega"/>
+            <Glyph value="onethird"/>
+            <Glyph value="twothirds"/>
+            <Glyph value="oneeighth"/>
+            <Glyph value="threeeighths"/>
+            <Glyph value="fiveeighths"/>
+            <Glyph value="seveneighths"/>
+            <Glyph value="partialdiff"/>
+            <Glyph value="Delta"/>
+            <Glyph value="product"/>
+            <Glyph value="summation"/>
+            <Glyph value="minus"/>
+            <Glyph value="radical"/>
+            <Glyph value="infinity"/>
+            <Glyph value="integral"/>
+            <Glyph value="approxequal"/>
+            <Glyph value="notequal"/>
+            <Glyph value="lessequal"/>
+            <Glyph value="greaterequal"/>
+            <Glyph value="lozenge"/>
+            <Glyph value="f_f"/>
+            <Glyph value="fi"/>
+            <Glyph value="fl"/>
+            <Glyph value="f_f_i"/>
+            <Glyph value="s_t"/>
+            <Glyph value="A.alt"/>
+            <Glyph value="A.alt2"/>
+            <Glyph value="B.alt"/>
+            <Glyph value="C.alt"/>
+            <Glyph value="C_h"/>
+            <Glyph value="D.alt"/>
+            <Glyph value="G.alt"/>
+            <Glyph value="H.alt"/>
+            <Glyph value="I.alt"/>
+            <Glyph value="J.alt"/>
+            <Glyph value="K.alt"/>
+            <Glyph value="L.alt"/>
+            <Glyph value="L_l"/>
+            <Glyph value="M.alt"/>
+            <Glyph value="N.alt"/>
+            <Glyph value="Numero"/>
+            <Glyph value="O.alt"/>
+            <Glyph value="O.alt02"/>
+            <Glyph value="O.alt2"/>
+            <Glyph value="P.alt"/>
+            <Glyph value="Q.alt"/>
+            <Glyph value="R.alt"/>
+            <Glyph value="S.alt"/>
+            <Glyph value="T.alt"/>
+            <Glyph value="T_h"/>
+            <Glyph value="W.alt"/>
+            <Glyph value="W.alt.001"/>
+            <Glyph value="X.alt"/>
+            <Glyph value="Y.alt"/>
+            <Glyph value="a.alt"/>
+            <Glyph value="aacute.alt"/>
+            <Glyph value="agrave.alt"/>
+            <Glyph value="acircumflex.alt"/>
+            <Glyph value="adieresis.alt"/>
+            <Glyph value="atilde.alt"/>
+            <Glyph value="aring.alt"/>
+            <Glyph value="ampersand.alt"/>
+            <Glyph value="c_l"/>
+            <Glyph value="c_t"/>
+            <Glyph value="d.alt"/>
+            <Glyph value="e.alt"/>
+            <Glyph value="eacute.alt"/>
+            <Glyph value="egrave.alt"/>
+            <Glyph value="ecircumflex.alt"/>
+            <Glyph value="edieresis.alt"/>
+            <Glyph value="e.alt.001"/>
+            <Glyph value="f.alt"/>
+            <Glyph value="f_b"/>
+            <Glyph value="f_h"/>
+            <Glyph value="f_j"/>
+            <Glyph value="f_k"/>
+            <Glyph value="f_k.alt"/>
+            <Glyph value="f_t"/>
+            <Glyph value="g.alt"/>
+            <Glyph value="h.alt"/>
+            <Glyph value="i.alt"/>
+            <Glyph value="k.alt"/>
+            <Glyph value="l.alt"/>
+            <Glyph value="l_l"/>
+            <Glyph value="m.alt"/>
+            <Glyph value="m_r"/>
+            <Glyph value="n.alt"/>
+            <Glyph value="o.alt"/>
+            <Glyph value="o.fina"/>
+            <Glyph value="oacute.alt"/>
+            <Glyph value="ograve.alt"/>
+            <Glyph value="ocircumflex.alt"/>
+            <Glyph value="otilde.alt"/>
+            <Glyph value="odieresis.alt"/>
+            <Glyph value="r.fina"/>
+            <Glyph value="r_r"/>
+            <Glyph value="s_p"/>
+            <Glyph value="t_t"/>
+            <Glyph value="u.alt"/>
+            <Glyph value="uacute.alt"/>
+            <Glyph value="ugrave.alt"/>
+            <Glyph value="ucircumflex.alt"/>
+            <Glyph value="udieresis.alt"/>
+            <Glyph value="v.alt"/>
+            <Glyph value="w.alt"/>
+            <Glyph value="y.alt"/>
+            <Glyph value="z.alt"/>
+            <Glyph value="A.smcp"/>
+            <Glyph value="B.smcp"/>
+            <Glyph value="C.smcp"/>
+            <Glyph value="D.smcp"/>
+            <Glyph value="E.smcp"/>
+            <Glyph value="F.smcp"/>
+            <Glyph value="G.smcp"/>
+            <Glyph value="H.smcp"/>
+            <Glyph value="I.smcp"/>
+            <Glyph value="J.smcp"/>
+            <Glyph value="K.smcp"/>
+            <Glyph value="L.smcp"/>
+            <Glyph value="M.smcp"/>
+            <Glyph value="N.smcp"/>
+            <Glyph value="Ntilde.smcp"/>
+            <Glyph value="O.smcp"/>
+            <Glyph value="P.smcp"/>
+            <Glyph value="Q.smcp"/>
+            <Glyph value="R.smcp"/>
+            <Glyph value="S.smcp"/>
+            <Glyph value="T.smcp"/>
+            <Glyph value="U.smcp"/>
+            <Glyph value="V.smcp"/>
+            <Glyph value="W.smcp"/>
+            <Glyph value="X.smcp"/>
+            <Glyph value="Y.smcp"/>
+            <Glyph value="Z.smcp"/>
+            <Glyph value="zero.tnum"/>
+            <Glyph value="one.tnum"/>
+            <Glyph value="two.tnum"/>
+            <Glyph value="three.tnum"/>
+            <Glyph value="four.tnum"/>
+            <Glyph value="five.tnum"/>
+            <Glyph value="six.tnum"/>
+            <Glyph value="seven.tnum"/>
+            <Glyph value="eight.tnum"/>
+            <Glyph value="nine.tnum"/>
+            <Glyph value="onefifth"/>
+            <Glyph value="onesixth"/>
+            <Glyph value="oneseventh"/>
+            <Glyph value="oneninth"/>
+            <Glyph value="twofifths"/>
+            <Glyph value="twosevenths"/>
+            <Glyph value="twoninths"/>
+            <Glyph value="threefifths"/>
+            <Glyph value="threesevenths"/>
+            <Glyph value="fourfifths"/>
+            <Glyph value="foursevenths"/>
+            <Glyph value="fourninths"/>
+            <Glyph value="fivesixths"/>
+            <Glyph value="fivesevenths"/>
+            <Glyph value="fiveninths"/>
+            <Glyph value="sixsevenths"/>
+            <Glyph value="sevenninths"/>
+            <Glyph value="eightninths"/>
+            <Glyph value="d_a"/>
+            <Glyph value="d_o"/>
+            <Glyph value="e_r"/>
+            <Glyph value="e_r_a"/>
+            <Glyph value="e_r_o"/>
+            <Glyph value="m_a"/>
+            <Glyph value="m_o"/>
+            <Glyph value="n_a"/>
+            <Glyph value="n_d"/>
+            <Glyph value="n_o"/>
+            <Glyph value="ord_r"/>
+            <Glyph value="r_a"/>
+            <Glyph value="r_d"/>
+            <Glyph value="r_i_t_a"/>
+            <Glyph value="s_t.001"/>
+            <Glyph value="t_a"/>
+            <Glyph value="t_h"/>
+            <Glyph value="t_o"/>
+            <Glyph value="v_a"/>
+            <Glyph value="v_o"/>
+            <Glyph value="inicio"/>
+            <Glyph value="space.smcp"/>
+            <Glyph value="A.smcp.titl"/>
+            <Glyph value="B.smcp.titl"/>
+            <Glyph value="C.smcp.titl"/>
+            <Glyph value="D.smcp.titl"/>
+            <Glyph value="E.smcp.titl"/>
+            <Glyph value="F.smcp.titl"/>
+            <Glyph value="G.smcp.titl"/>
+            <Glyph value="H.smcp.titl"/>
+            <Glyph value="I.smcp.titl"/>
+            <Glyph value="J.smcp.titl"/>
+            <Glyph value="K.smcp.titl"/>
+            <Glyph value="L.smcp.titl"/>
+            <Glyph value="M.smcp.titl"/>
+            <Glyph value="N.smcp.titl"/>
+            <Glyph value="O.smcp.titl"/>
+            <Glyph value="P.smcp.titl"/>
+            <Glyph value="Q.smcp.titl"/>
+            <Glyph value="R.smcp.titl"/>
+            <Glyph value="S.smcp.titl"/>
+            <Glyph value="T.smcp.titl"/>
+            <Glyph value="U.smcp.titl"/>
+            <Glyph value="V.smcp.titl"/>
+            <Glyph value="W.smcp.titl"/>
+            <Glyph value="X.smcp.titl"/>
+            <Glyph value="Y.smcp.titl"/>
+            <Glyph value="Z.smcp.titl"/>
+            <Glyph value="final"/>
+            <Glyph value="B_c_n"/>
+            <Glyph value="B_s_A_s"/>
+            <Glyph value="Puerto"/>
+            <Glyph value="S_t_g_o"/>
+            <Glyph value="period_a_r"/>
+            <Glyph value="period_c_l"/>
+            <Glyph value="dot_com"/>
+            <Glyph value="period_e_s"/>
+            <Glyph value="camiseta1.ss01"/>
+            <Glyph value="camiseta1.ss02"/>
+            <Glyph value="camiseta1.ss03"/>
+            <Glyph value="camiseta2.ss02"/>
+            <Glyph value="camiseta2.ss03"/>
+            <Glyph value="camiseta3.ss02"/>
+            <Glyph value="camiseta3.ss03"/>
+            <Glyph value="camiseta4.ss02"/>
+            <Glyph value="camiseta4.ss03"/>
+            <Glyph value="camiseta5.ss02"/>
+            <Glyph value="camiseta5.ss03"/>
+            <Glyph value="camiseta6.ss02"/>
+            <Glyph value="camiseta6.ss03"/>
+            <Glyph value="icon1"/>
+            <Glyph value="icon2"/>
+            <Glyph value="icon3"/>
+            <Glyph value="icon4"/>
+            <Glyph value="icon5"/>
+            <Glyph value="diego"/>
+            <Glyph value="apple"/>
+            <Glyph value="fleuron10"/>
+            <Glyph value="apple1.alt"/>
+            <Glyph value="apple2.alt"/>
+            <Glyph value="flecha1"/>
+            <Glyph value="flecha2"/>
+            <Glyph value="flecha3"/>
+            <Glyph value="flecha4"/>
+            <Glyph value="fleuron01"/>
+            <Glyph value="fleuron02"/>
+            <Glyph value="fleuron03"/>
+            <Glyph value="fleuron04"/>
+            <Glyph value="fleuron05"/>
+            <Glyph value="fleuron06"/>
+            <Glyph value="fleuron08"/>
+            <Glyph value="c_h"/>
+            <Glyph value="c_k"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="e"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=0 -->
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="A"/>
+            <Glyph value="O"/>
+            <Glyph value="W"/>
+            <Glyph value="e"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="25"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="22">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out="A.smcp.titl"/>
+          <Substitution in="B" out="B.smcp.titl"/>
+          <Substitution in="C" out="C.smcp.titl"/>
+          <Substitution in="D" out="D.smcp.titl"/>
+          <Substitution in="E" out="E.smcp.titl"/>
+          <Substitution in="F" out="F.smcp.titl"/>
+          <Substitution in="G" out="G.smcp.titl"/>
+          <Substitution in="H" out="H.smcp.titl"/>
+          <Substitution in="I" out="I.smcp.titl"/>
+          <Substitution in="J" out="J.smcp.titl"/>
+          <Substitution in="K" out="K.smcp.titl"/>
+          <Substitution in="L" out="L.smcp.titl"/>
+          <Substitution in="M" out="M.smcp.titl"/>
+          <Substitution in="N" out="N.smcp.titl"/>
+          <Substitution in="O" out="O.smcp.titl"/>
+          <Substitution in="P" out="P.smcp.titl"/>
+          <Substitution in="Q" out="Q.smcp.titl"/>
+          <Substitution in="R" out="R.smcp.titl"/>
+          <Substitution in="S" out="S.smcp.titl"/>
+          <Substitution in="T" out="T.smcp.titl"/>
+          <Substitution in="U" out="U.smcp.titl"/>
+          <Substitution in="V" out="V.smcp.titl"/>
+          <Substitution in="W" out="W.smcp.titl"/>
+          <Substitution in="X" out="X.smcp.titl"/>
+          <Substitution in="Y" out="Y.smcp.titl"/>
+          <Substitution in="Z" out="Z.smcp.titl"/>
+          <Substitution in="bracketleft" out="inicio"/>
+          <Substitution in="bracketright" out="final"/>
+          <Substitution in="space" out="space.smcp"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="23">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="a" out="icon1"/>
+          <Substitution in="asciicircum" out="camiseta6.ss03"/>
+          <Substitution in="at" out="camiseta2.ss03"/>
+          <Substitution in="b" out="icon2"/>
+          <Substitution in="c" out="icon3"/>
+          <Substitution in="d" out="icon4"/>
+          <Substitution in="dollar" out="camiseta4.ss03"/>
+          <Substitution in="e" out="icon5"/>
+          <Substitution in="exclam" out="camiseta1.ss03"/>
+          <Substitution in="f" out="diego"/>
+          <Substitution in="five" out="camiseta5.ss02"/>
+          <Substitution in="four" out="camiseta4.ss02"/>
+          <Substitution in="g" out="fleuron10"/>
+          <Substitution in="h" out="apple1.alt"/>
+          <Substitution in="i" out="apple2.alt"/>
+          <Substitution in="j" out="flecha1"/>
+          <Substitution in="k" out="flecha2"/>
+          <Substitution in="l" out="flecha3"/>
+          <Substitution in="m" out="flecha4"/>
+          <Substitution in="n" out="fleuron01"/>
+          <Substitution in="numbersign" out="camiseta3.ss03"/>
+          <Substitution in="o" out="fleuron02"/>
+          <Substitution in="one" out="camiseta1.ss02"/>
+          <Substitution in="p" out="fleuron03"/>
+          <Substitution in="percent" out="camiseta5.ss03"/>
+          <Substitution in="q" out="fleuron04"/>
+          <Substitution in="r" out="fleuron05"/>
+          <Substitution in="s" out="fleuron06"/>
+          <Substitution in="six" out="camiseta6.ss02"/>
+          <Substitution in="t" out="fleuron08"/>
+          <Substitution in="three" out="camiseta3.ss02"/>
+          <Substitution in="two" out="camiseta2.ss02"/>
+          <Substitution in="zero" out="camiseta1.ss01"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="24">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out="A.alt"/>
+          <Substitution in="B" out="B.alt"/>
+          <Substitution in="C" out="C.alt"/>
+          <Substitution in="D" out="D.alt"/>
+          <Substitution in="G" out="G.alt"/>
+          <Substitution in="H" out="H.alt"/>
+          <Substitution in="I" out="I.alt"/>
+          <Substitution in="J" out="J.alt"/>
+          <Substitution in="K" out="K.alt"/>
+          <Substitution in="L" out="L.alt"/>
+          <Substitution in="M" out="M.alt"/>
+          <Substitution in="N" out="N.alt"/>
+          <Substitution in="O" out="O.alt"/>
+          <Substitution in="P" out="P.alt"/>
+          <Substitution in="Q" out="Q.alt"/>
+          <Substitution in="R" out="R.alt"/>
+          <Substitution in="S" out="S.alt"/>
+          <Substitution in="T" out="T.alt"/>
+          <Substitution in="W" out="W.alt"/>
+          <Substitution in="X" out="X.alt"/>
+          <Substitution in="Y" out="Y.alt"/>
+          <Substitution in="a" out="a.alt"/>
+          <Substitution in="aacute" out="aacute.alt"/>
+          <Substitution in="acircumflex" out="acircumflex.alt"/>
+          <Substitution in="adieresis" out="adieresis.alt"/>
+          <Substitution in="agrave" out="agrave.alt"/>
+          <Substitution in="ampersand" out="ampersand.alt"/>
+          <Substitution in="aring" out="aring.alt"/>
+          <Substitution in="atilde" out="atilde.alt"/>
+          <Substitution in="d" out="d.alt"/>
+          <Substitution in="e" out="e.alt"/>
+          <Substitution in="eacute" out="eacute.alt"/>
+          <Substitution in="ecircumflex" out="ecircumflex.alt"/>
+          <Substitution in="edieresis" out="edieresis.alt"/>
+          <Substitution in="egrave" out="egrave.alt"/>
+          <Substitution in="f" out="f.alt"/>
+          <Substitution in="f_k" out="f_k.alt"/>
+          <Substitution in="g" out="g.alt"/>
+          <Substitution in="h" out="h.alt"/>
+          <Substitution in="i" out="i.alt"/>
+          <Substitution in="k" out="k.alt"/>
+          <Substitution in="l" out="l.alt"/>
+          <Substitution in="m" out="m.alt"/>
+          <Substitution in="n" out="n.alt"/>
+          <Substitution in="o" out="o.alt"/>
+          <Substitution in="oacute" out="oacute.alt"/>
+          <Substitution in="ocircumflex" out="ocircumflex.alt"/>
+          <Substitution in="odieresis" out="odieresis.alt"/>
+          <Substitution in="ograve" out="ograve.alt"/>
+          <Substitution in="otilde" out="otilde.alt"/>
+          <Substitution in="u" out="u.alt"/>
+          <Substitution in="uacute" out="uacute.alt"/>
+          <Substitution in="ucircumflex" out="ucircumflex.alt"/>
+          <Substitution in="udieresis" out="udieresis.alt"/>
+          <Substitution in="ugrave" out="ugrave.alt"/>
+          <Substitution in="v" out="v.alt"/>
+          <Substitution in="w" out="w.alt"/>
+          <Substitution in="y" out="y.alt"/>
+          <Substitution in="z" out="z.alt"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="25">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out="A.alt2"/>
+          <Substitution in="O" out="O.alt02"/>
+          <Substitution in="W" out="W.alt.001"/>
+          <Substitution in="e" out="e.alt.001"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
